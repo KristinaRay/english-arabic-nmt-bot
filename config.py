@@ -5,20 +5,28 @@ SEED = 42
 # Parameters for Transformer & training
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-MAX_LEN = 120
+MAX_LEN = 100
 HID_DIM = 256
 ENC_HEADS = 8
 DEC_HEADS = 8
-ENC_LAYERS = 3 
-DEC_LAYERS = 3 
+ENC_LAYERS = 6 
+DEC_LAYERS = 6
 ENC_PF_DIM = 512
 DEC_PF_DIM = 512
 ENC_DROPOUT = 0.1
 DEC_DROPOUT = 0.1
 
-PATIENCE = 5
+# Parameters for the pruning
+
+GATE_L0_PENALTY = 0.01
+GATE_TEMPERATURE = 0.5
+HARD = False
+PRUNING = False
+HCG_IS_TRAIN = False
+
 CLIP = 1
 NUM_EPOCHS = 10
+EPOCH_NUM = 10
 BATCH_SIZE = 128
 LEARNING_RATE = 5e-5
 NUM_WARMUP_STEPS = 30000
@@ -35,7 +43,7 @@ TRG_VOCAB_SIZE = 24000
 
 # Paths or parameters for data
 
-SAMPLE_SIZE = 3000000
+SAMPLE_SIZE = 5000000
 
 DATA_PATH = 'data'
 LOG_FILE_PATH = 'logs'
@@ -45,7 +53,7 @@ SRC_TXT_FILE_PATH = f'{DATA_PATH}/en.txt'
 TRG_TOKENIZER_PATH = f'{DATA_PATH}/BPE_arabic_model.bin'
 SRC_TOKENIZER_PATH = f'{DATA_PATH}/BPE_english_model.bin'
 
-MODEL_PATH = f'{CHECKPOINT_PATH}/best_loss_model.pt'
+MODEL_PATH = f'{CHECKPOINT_PATH}/checkpoint_epoch_10.pt'
 
 # Parameters for telegram notification and translation bots
 

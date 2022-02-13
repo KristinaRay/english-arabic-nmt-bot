@@ -3,6 +3,7 @@ import tqdm
 import numpy as np
 import requests
 import youtokentome as yttm
+from argparse import ArgumentParser
 from zipfile import ZipFile
 
 from config import *
@@ -55,7 +56,7 @@ def fetch_dataset(data_url, data_path, data_file_path):
 
         log('Datasets are found')
 
-def create_sample(sample_size):
+def create_sample(sample_size, max_text_len):
     """
     Clean data sample and remove duplicates
     """
@@ -71,7 +72,7 @@ def create_sample(sample_size):
             if idx in chosen_lines:
                 src = clean_en_text(en_line)
                 trg = clean_ar_text(ar_line)
-                if 2 < len(src) <= MAX_LEN and  2 < len(trg) <= MAX_LEN:
+                if 2 < len(src) <= max_text_len and  2 < len(trg) < max_text_len:
                     if ((src + trg) not in unique_pairs and (len(unique_pairs) < sample_size)): 
                         en.write(src)
                         ar.write(trg)
@@ -86,10 +87,15 @@ def create_sample(sample_size):
     log("Done")
     log(f'Number of unique pairs of sentences: {len(unique_pairs)}')
         
-if __name__ == "__main__":
-    
+
+def main():   
     fetch_dataset(DATA_URL, DATA_PATH, DATA_FILE_PATH)
-    create_sample(SAMPLE_SIZE)
+    parser = ArgumentParser()
+    parser.add_argument("--sample_size", required=True, type=int, help='Number of the sentence pairs to prepare for the training')
+    parser.add_argument("--max_text_len", required=True, type=int, help='Max character length of the sentences')
+    args = parser.parse_args()
+    
+    create_sample(args.sample_size, args.max_text_len)
     
     log('Training tokenizers...')
     
@@ -97,3 +103,6 @@ if __name__ == "__main__":
     yttm.BPE.train(data=SRC_TXT_FILE_PATH, vocab_size=SRC_VOCAB_SIZE, model=SRC_TOKENIZER_PATH)
     
     log("Done")
+
+if __name__ == "__main__":
+    main()

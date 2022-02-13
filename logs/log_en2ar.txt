@@ -1,0 +1,1501 @@
+Download complete
+Extracting...
+Extracting complete
+Creating txt files for both languages...
+Done
+Number of unique pairs of sentences: 5000000
+Training tokenizers...
+Done
+
+Number of training examples: 4500000
+Number of validation examples: 250000
+Number of testing examples: 250000
+Number of training batches: 35157
+Number of validation batches: 1954
+Number of testing batches: 1954
+
+Training the model...
+Training epoch: 01
+English: we got to get three points
+Original: علينا أن نحرز ثلاث نقاط
+Generated: متفاجبنا كاميراتجوابنابنا مرآ تحتاجهبنابنابنا النبنابنابنابنا يام كاميرات
+English: be brave and do not run away
+Original: صحيح فقط لا تهرب بعيداً
+Generated: 
+English: talk to me david let me know what is going on man
+Original: تكلم معى دافيد دعنى أعرف ماذا يحدث يا رجل
+Generated: 
+English: guilt is for the weak
+Original: الذنب هو للضعفاء
+Generated: 
+English: uh she is uh
+Original: انها هى
+Generated: 
+English: will you please marry me
+Original: هلا تزوجتني
+Generated: 
+English: i was terrified alone in that darkness
+Original: ووقتها فزعت وحدي في ذلك الظلام
+Generated: 
+English: it's a touch screen use your finger
+Original: انها شاشة لمس إستعمل إصبعك
+Generated: لا من
+English: it's just
+Original: ومن توها
+Generated: هل
+English: you yourself told me that paul and i were engaged years ago
+Original: قلت أنني و بول قد تمت خطبتنا من قبل
+Generated: هل أنا أن أن أن هذا أن أن هذا
+English: all right we cooking now
+Original: حَسَناً نَطْبخُ الآن
+Generated: هل هل
+English: guido i do not have your number
+Original: جيدو لم أحصل على رقمك
+Generated: لا لا لا لا هذا
+English: would it be possible to delay this trip
+Original: هل يمكن أن تأخر هذه الرحله
+Generated: هل كان أن هذا أن هذا
+English: wwhy
+Original: لماذا
+Generated: هل
+English: but i do miss her
+Original: ولكنني أفتقدها
+Generated: أنا أنا أن
+English: you are in enough trouble already
+Original: أنتفىالواقعفيمايكفيكمنالمشاكل
+Generated: أنت أنت في
+English: this is such a stupid goddamn situation
+Original: هذا مثل هذا الغبيِ حالة
+Generated: هذا هو هذا
+English: i do not
+Original: أنا لا أمتلك
+Generated: أنا لا أعرف
+English: keep me advised
+Original: وافيني بالمعلومات
+Generated: شكراًصش
+English: i just know that there is something really special out there for me
+Original: أعرف وواثق أن هناك شيء مميز جداً سيحدث لي
+Generated: أنا ماـ هناك هناك هناك هناك
+English: your insane plan backfired
+Original: خططك المجنونة أثرت عكسا
+Generated: هذاونش
+English: why does a revival attract thousands
+Original: لماذا الصحوة تجتذب الآلاف
+Generated: لماذا لاونش
+English: sake bombs
+Original: ساكي القنابل
+Generated: منش
+English: that dunder mifflin does not discriminate
+Original: ولا تشجّع العادات الغذائية غير الصحيّة لا يوجد عملية وزن هذا الأسبوع
+Generated: هذا يوجددلي هذاري لا
+English: i have written the marks in the top righthand corner
+Original: كما ترون يوجد علامة في كل ورقة اسـئلة وكما ترون هي في الزاوية اليمنى
+Generated: أنا كان في في في غرفة غرفة في
+English: my wine magazines came
+Original: مجلة النبيذ الفاخر هنا
+Generated: لقد منش
+English: your masked man kidnapped the wayne enterprises board
+Original: المجرم المقنع اختطف أعضاء مجلس إدارة شركات واين
+Generated: الرجل الرجلبي من رجل
+English: help
+Original: أخرجوني من هنا
+Generated: هل
+English: oh we do not need to get to work today
+Original: إننا لسنا بحاجةٍ للعمل اليوم
+Generated: لا لا بحاجة إلى في
+English: from this day forward i am brother andreas
+Original: من اليوم فصاعدًا أنا الأخ أندرياس
+Generated: من الأفضل أناش لي من أنا أكون
+English: very bad thing last night
+Original: لقد كان سيء ليله امس
+Generated: ما كان شيء اليوم جيدة
+English: it would be the biggest mistake of your life pink
+Original: هذه ستكون أكبر غلطة ترتكبها في حياتك يا بينك
+Generated: من كانت أفضل من من الحياة الحياة رجل
+English: this way sir
+Original: من هنا سيّدي
+Generated: هذا هنا يا
+English: here comes the action man check it out
+Original: لقد اتت الاثاره تفحّصها
+Generated: هناك انتهى نظرةَ هنارقبه هذا
+English: college med school
+Original: الجامعة كلية الطب
+Generated: المدرسة المدرسة المدرسة
+English: at this point in the investigation there is no conclusive evidence to indicate that
+Original: ولا يـــوجـــــد دليل قــاطــع على ذلك
+Generated: في يوجدرضط هذاَ أنَـــة أن
+Epoch: 01 | Time: 575m 42s
+Train Loss: 6.678 | Train PPL: 794.344 | Train Bleu Score: 0.034
+Val. Loss: 5.172 | Val. PPL: 176.351 | Val. Bleu Score: 0.088
+
+Training the model...
+Training epoch: 02
+English: go
+Original: خذ عدّتك
+Generated: هيا
+English: not bad
+Original: حسناً لا بأس لا بأس
+Generated: ليس ليس
+English: it's gone
+Original: لقد ضاع
+Generated: لقد ذهب
+English: dog squeals
+Original: كلب يئنّ
+Generated: يا
+English: got a new one
+Original: ألديك جديدة
+Generated: لدي جديدة
+English: well obviously
+Original: هذا واضح
+Generated: حسناً جيد
+English: tell her ditto
+Original: قولي لها وأنا أيضاً ما معني وأنا أيضاً
+Generated: قلها يرامهاهاهاهاهاها
+English: mommy i am scared
+Original: أمي أنا خائفه
+Generated: أنا أنا خائفة
+English: there is that yeah
+Original: هذا صحيح أجل
+Generated: هذا هو
+English: i offered him a job
+Original: عرضت عليه عملاً
+Generated: لقد على عمل
+English: wheezing moaning no
+Original: لا
+Generated: لا
+English: so nice weather today
+Original: إذاًالجو لطيف اليوم
+Generated: حسناً صباح اليوم اليوم اليوم
+English: well talk her out of it
+Original: اثنها عن ذلك
+Generated: حسناًبي على ذلكهاها
+English: he and brent were a team
+Original: هو وبرينت كانا فريق
+Generated: لقد ماتنا
+English: where is the damn antacid
+Original: اين مضاد الحموضة اللعين
+Generated: أين هيرة
+English: had had a sense of purpose
+Original: كان كان لدي شعود بالهدف
+Generated: كان لديه لديه شيءراءه
+English: come on answer it's a shame
+Original: ما الذى أصاب عائلتنا
+Generated: هيا هو هوه
+English: i will fix it i am used to it
+Original: أنا سأصلحها
+Generated: أنا سأدم هذا أنا
+English: you are going to lose that arm
+Original: أنت على وشك فقد ذراعك
+Generated: سوف ست وشك أن ست
+English: lots of big words like assiduous
+Original: العديد من الكلمات الكبيرة مثل مواظب
+Generated: الكثير من الأشياء من هذاقمة
+English: i am getting lift to town all set
+Original: سوف آخذ وسيلة مواصلات الى المدينة كل شئ مُعَدّ
+Generated: أنا أحضر كل إلىقلرات المدينة شيءحققلاء
+English: jacky bonnot young culinary genius
+Original: جاكي بونوت عبقري الطهي الشاب
+Generated: ماري ليسو ليس ليسُ
+English: supplies all the clinics with scrips
+Original: هي فتاة حسنة تمد كل العيادات بالوصفات الطبية
+Generated: كل كل كلصها هذهلامج
+English: it does not fit with what we are doing
+Original: انه لا يتناسب مع ما نقوم به
+Generated: ليس لا يهمحدث عن أي يحدث به
+English: you mean that she was shot instead of me
+Original: تقصد أنّها قُتلت بدلاً منّي
+Generated: لقد أنها كانترقترت على منها
+English: i do not know what you guys want me to say
+Original: لا أعلم مّا تريدوني أن أقول
+Generated: لا أعرف ماعلم تريد أن أن تخبرني لك
+English: ari only wants vince to do a go studio movie
+Original: يريد آري له سوى فيلم استوديو
+Generated: يريد أن أن الذهاب الذهاب فيوديو
+English: and how do you suppose the banks would survive
+Original: وكيف يمكن للـالمصارف أن تضمن بقاءك على قيد الحياة
+Generated: و ست أن أنكون أن أن تكونرب الموت السجن قيد الحياة
+English: there is an ani am going tol theme going on here
+Original: هناك موضوع حيواني رئيسي يجري هنا
+Generated: هناك حيوان في هنا هنا هنا
+English: for centuries part of any punishment was humiliation
+Original: لقُرونٍ مَضَت كانَ الإذلال جُزءاً مِن أي عِقاب
+Generated: منائ مِنْ مِنْ مِنْحَّْ مِنْ مِنْضائِـَ ذلك شيءـ
+English: we see the um frobisher trial as a epic tale of rebirth
+Original: نحن نرى أن محاكمة فوربشر كقصة ملحمية لولادة جديدة
+Generated: نرى نرى حفل ن منسترازفاف مندية
+English: hey keep the yellow in your pocket i need only the red rose
+Original: ابقي الصفراء في جيبك انا اريد فقط الحمراء
+Generated: ابقي في في الحمام أريد اريد ان ان
+English: it's too late to turn back moe we've exchanged meaningful looks
+Original: فات الأوان على التراجع يا مو لقد تبادلنا نظرات متفهّمة
+Generated: لقد الأوان على أن عن آنسة نسيتنا أنرتغيرها
+English: your english is good abdul but you are lying and that are not so good
+Original: لغتك الإنجليزية جيدة يا عبد الله لكنك تكذب و ليس هذا جيداً
+Generated: لكنتك الإنجليزية لكن لكن أطفال لكن لكن لا جداً هذا جيداً جيد
+English: it's like eating after cleaning your teeth everything tastes wroagh what is it
+Original: كأنك تأكل بعد تفريشك للأسنان كل شيء تأكله يكون طعمه غريب
+Generated: إنه تأكل كل كلرق كل كلوم كل شيء هوهاها
+English: sugarenriched flour partially hydrogenated vegetable oil polysorbate and yellow dye number five
+Original: سُكّر طحين بنسبة كبيرة زيت نباتي مهدرجَ جزئياً بوليسوربات ستون
+Generated: ووّور منوّ من من من وزياتود و واً منقط و و و و خمسة
+Epoch: 02 | Time: 340m 5s
+Train Loss: 4.719 | Train PPL: 112.084 | Train Bleu Score: 0.106
+Val. Loss: 4.559 | Val. PPL:  95.516 | Val. Bleu Score: 0.088
+
+Training the model...
+Training epoch: 03
+Iteration: 0
+English: dana
+Original: دانا
+Generated: أنت و
+Iteration: 1000
+English: excuse me
+Original: لحظة معذرة
+Generated: المعذرة
+Iteration: 2000
+English: wait wait
+Original: انتظر انتظر ابقى بعيدا عني
+Generated: انتظر هنا
+Iteration: 3000
+English: have i
+Original: أنا
+Generated: هل
+Iteration: 4000
+English: like a walrus
+Original: مثل حصان البحر
+Generated: مثل
+Iteration: 5000
+English: you may sir
+Original: أجل
+Generated: هل سيدي
+Iteration: 6000
+English: shoulders back smile
+Original: تدخلين دون مرافق جذب الكتفين إلى الوراء
+Generated: ابتوا ابتسامة أنكب وجهي
+Iteration: 7000
+English: i would appreciate that
+Original: داي كنتُ لأقدر ذلك
+Generated: أقدر أقدرقدر ذلك
+Iteration: 8000
+English: we think tony's alive
+Original: نعتقد ان توني على قيد الحياة
+Generated: نحن أنه رجل حي قيد الحياة
+Iteration: 9000
+English: i don't know why
+Original: لا اعرف لماذا
+Generated: لا أدري لماذا
+Iteration: 10000
+English: i am not bored
+Original: انا لم اشعر بالملل
+Generated: أنا لست أشعر بالملل
+Iteration: 11000
+English: why are you here paul
+Original: لماذا أنت هُنا يا بـول
+Generated: لماذا أنت هنا يا سيد
+Iteration: 12000
+English: you are really going tomorrow
+Original: أحقاً انتم راحلون غدا
+Generated: أنت ذاهبونون
+Iteration: 13000
+English: they know we are here
+Original: فهم يعلمون بوجودنا
+Generated: يعرفونوا أننانا هنانانانااً
+Iteration: 14000
+English: don't just stand there move
+Original: لاتقفهكذافحسب تحرك
+Generated: لابقى هناك
+Iteration: 15000
+English: so you are a good kisser
+Original: اذا انتٍ تقبلي بشكل جيد
+Generated: إذاً أنت تمزح متلية بشكل جيد
+Iteration: 16000
+English: we are not taking him anywhere
+Original: نحن لن نأخذه لأيّ مكان
+Generated: لن لن ن إلى مكان
+Iteration: 0
+English: بريطانيا
+Original: britannia
+Generated: seas euc contradiction contradictiongie contradiction identifying contradiction contradiction aptfal educ cinnam
+Iteration: 17000
+English: and you know where it is
+Original: و أنت تعرفين مكانها
+Generated: و أنت تعرف أين
+Iteration: 18000
+English: i think they are called colombians
+Original: أعتقد هم يَدْعونَ الكولمبيين
+Generated: أعتقد أنهم يسمعوونَ علىونينينوا
+Iteration: 19000
+English: we will dump him in the ocean
+Original: سوف نلقيه في المحيط
+Generated: سن ن القبض في المحيط
+Iteration: 20000
+English: did you get the car wash keys
+Original: هل أخذت مفاتيح المغسلة
+Generated: هل حصلت مفاتيح السيارة
+Iteration: 21000
+English: the odds are long pay's good
+Original: الإحتمالات كبيرة المكافأة جيدة
+Generated: الإحتمالات طويلة طويلةأة
+Iteration: 22000
+English: i know how badly you wanted that job
+Original: أنا أعلم مدى الضرر الذي يريد هذا المنصب
+Generated: أعرف أعرف كيف صعوبة الذي أردت أن العملهاها
+Iteration: 23000
+English: he worked for me in vegas he's good
+Original: كان يعمل لي في فيجاس انه بارع
+Generated: لقد يعمل لي في فيجاس إنه جيد
+Iteration: 24000
+English: for goodness' sake let us be nice children
+Original: لأجل الطيبة دعنا نكون لطفاء أطفال
+Generated: بالله الله دعنا ن أطفال
+Iteration: 25000
+English: the first time it was like he was devastated
+Original: اعنى ان اول مرة كانت بدى وكأنه مُحطماً
+Generated: أول انه كان مرة كان مت تمرا
+Iteration: 26000
+English: then why are we casting dolph lundgren
+Original: اذن لماذا نختار دولف لوندجرين
+Generated: إذاً لماذا نحن دورفن لينون
+Iteration: 27000
+English: literally nothing i sat in a chair and i stared
+Original: لا شيء حرفياً جلست على كرسي وحدّقت النظر
+Generated: في شيء كنت أنا في كرسي و
+Iteration: 28000
+English: yet you just subtracted from what is left
+Original: إن قمـت بالإسـقاط ممـا تـبقـى
+Generated: بعد لمعت بتضرار منـالـيـتـةـاـةـةـا
+Iteration: 29000
+English: these guys look like they are having fun on each other
+Original: هؤلاء الرفاق يبدو أنهم يستمتعون
+Generated: هؤلاء الرجال يبدون أنهم يستمتعون ببعض بعضهم بعضهم بعضهمانان بعضهمانان بعضهم بعضهمون
+Iteration: 30000
+English: doc surran said this will probably set him back another month
+Original: الدكتور سوران قال ممكن أنه يحتاج شهر زياده
+Generated: قال ريدرين قال أن أن سي له آخرمانهه
+Iteration: 31000
+English: the parents wanted to see her before she went up to picu
+Original: الوالدان يريدان رؤيتها قبل أن تذهب إلى غرفة العناية المركزة
+Generated: الآباءان أرادوا رؤيتها قبل أن تذهب إلى بيك الك المركزة
+Iteration: 32000
+English: lots of couples our age lack inti am going tocy in their marriages
+Original: العديد من الازواج فى سننا يفتقدون الى المودة فى زيجاتهم
+Generated: الكثير من الأزواجناين عمرهراتون الزواج مثلعاملة زواجناهم
+Iteration: 33000
+English: to close a perfect square you have got the bighearted man with the cello
+Original: وكخاتمة للمربع المثالي هناك أيضاً عازف التشيلو صاحب القلب الكبير
+Generated: على لديك عن من رائعةحية رجل القلببي الجلالة
+Iteration: 34000
+English: do your loins at this moment at this moment of death do they burn for me
+Original: جهز خاصرتك في هذه اللحظة في هذه اللحظة من الموت هل يحترقون لي
+Generated: هلواتك في هذه اللحظة في هذه اللحظة من الموت همون لي
+Iteration: 35000
+English: i am useless with my broken foot and we are hardly living off the work of my daughter baran
+Original: أنا عديم الفائدة بقدمي المكسور و نحننعيشبالكاد من عمل بنتي بــــاران
+Generated: أنا عديم الفائدة معرك وورة ونحن نحن بالكاد بالكاد منعملال أجل ابنتيشوتش
+Epoch: 03 | Time: 119m 17s
+Train Loss: 3.887 | Train PPL:  48.780 | Train Bleu Score: 0.165
+Val. Loss: 4.187 | Val. PPL:  65.846 | Val. Bleu Score: 0.082
+
+Training the model...
+Training epoch: 04
+Iteration: 0
+English: moses
+Original: موسس
+Generated: موسى موسى موسى موسى موسى موسى موسى موسى موسى موسى موسى موسى
+Iteration: 1000
+English: mr bay
+Original: سيد باي
+Generated: سيد باي
+Iteration: 2000
+English: look annie
+Original: إنظري آني
+Generated: انظر آني
+Iteration: 3000
+English: nothing yet
+Original: لا شيء بعدْ
+Generated: لا شيء بعد
+Iteration: 4000
+English: this is bizarre
+Original: هذا غريبُ
+Generated: هذا غريب
+Iteration: 5000
+English: everybody knows you
+Original: الجميع يعرفك
+Generated: الجميع يعلم
+Iteration: 6000
+English: i know you
+Original: أنا أعرفكِ
+Generated: أنا أعرف
+Iteration: 7000
+English: brought you flowers because
+Original: أحضرتلكأزهارلأنني
+Generated: أحضرت لك الزهور الأزهارهور
+Iteration: 8000
+English: is he our unsub
+Original: هل هو مجرمنا المجهول
+Generated: هل هو المجرمنا
+Iteration: 9000
+English: mrs haplin
+Original: يا سيدة هابلن
+Generated: سيدة سيدةولينن
+Iteration: 10000
+English: corruption and greed right
+Original: الفساد والجشع صحيح
+Generated: الفساد وشع صحيح
+Iteration: 11000
+English: that's not how therapy works
+Original: لا ينجح العلاج بهذه الطريقة
+Generated: هذا هذا العلاج الطريقة
+Iteration: 12000
+English: and then you came back
+Original: و من ثم عدت مجددا
+Generated: ثم بعدها ثم عدت
+Iteration: 13000
+English: my mother makes me chicken
+Original: صنعت امي لي دجاجة
+Generated: أمي والدتي الدجاج الدجاج
+Iteration: 14000
+English: i hear much of her
+Original: ولما هذا سمعت الكثير عنها
+Generated: أسمع سمعت عنها من
+Iteration: 15000
+English: i cannot meet you i cannot
+Original: أنا لا أستطيع مقابلتك أنا لا أستطيع
+Generated: لا لا أستطيع أن لا لا أستطيع
+Iteration: 16000
+English: you smell like watermelon bubblegum
+Original: رائحتك تبدو مثل رائحة تلك العلكة بطعم البطيخ
+Generated: رائحتك مثل ك رائحة ف البطينيطي
+Iteration: 17000
+English: any time you were away bang
+Original: في اي وقت تكون انت خارج المنزل بانج
+Generated: في أي وقت مضى فيه متغ
+Iteration: 18000
+English: that is not much of a distinction
+Original: هذا ليس فرق كبير
+Generated: هذا ليس الكثيراً
+Iteration: 19000
+English: the truth is i have a request
+Original: في الحقيقة أريد أن أطلب منك شيئا
+Generated: الحقيقة الحقيقة لدي أن أطلب
+Iteration: 20000
+English: where are you going you cabbagehead
+Original: أين تذهب يا دودة الملفوف
+Generated: أين أنت أيها رأسبروف
+Iteration: 21000
+English: you said you wanted new running shoes
+Original: قلت أنك أردت حذاءً رياضياً جديداً
+Generated: قلت أنك تريد حذاء جديد جديداً جديداً
+Iteration: 22000
+English: hello cal is it a night for it
+Original: مرحبا هل يعتبر هذا الليل بالنسبة لكى
+Generated: مرحباً كال هي ليلة ليلة له
+Iteration: 23000
+English: at least i have pants on this time
+Original: على الأقل علي سروال هذه المرة
+Generated: على الأقل لدي أنه المرة
+Iteration: 24000
+English: okay i think i get that you go ahead
+Original: أتفهم
+Generated: حسناً ذلكك الأمركم
+Iteration: 25000
+English: now i know this fantastic restaurant in napa
+Original: والآن أعرف هذا المطعم المذهل الذي يقع في نابا
+Generated: الآن أعرف أن المطعم الرائعذهل في في في قيلولةتا
+Iteration: 26000
+English: danny's a bit of a show off this morning
+Original: داني يتباهى قليلاً هذا الصباح
+Generated: داني قليلاًعرضى قليلا من الصباح
+Iteration: 27000
+English: and there was her husband wearing her best ball gown
+Original: و قد كان هنالك زوجها يرتدي افضل ما تحبه للباس الحفلة
+Generated: وكان كان كان زوجها زوجها يرتدي ثوب فستان ترتديهزفاف
+Iteration: 28000
+English: the people are saying please sit on the chair go
+Original: الناس تقول أرجوك اجلس علي الكرسي
+Generated: الناس يقولون رجاءً إجلس على الكرسي
+Iteration: 29000
+English: i just came over here for the booze and the food
+Original: لقد اتيت هنا لاجل الشراب والطعام
+Generated: لقد أتيت الى من الخمر وعام الطعام
+Iteration: 30000
+English: since when did that ever stop me from getting what i want
+Original: مذ متى منعني ذلك من نيل مبتغاي
+Generated: منذ متى توقف هذا هذا من أن ماذل عنتي ما ما ما
+Iteration: 31000
+English: mmm he is not so prominent that we have ever heard of him
+Original: إنه ليس بارز لهذه الدرجة
+Generated: إنه ليس بارز حتى الليلة لقدنانااًنانانانانا
+Iteration: 32000
+English: as an apology i will allow you to choose from the following nicknames
+Original: كاعتذار سأسمح لك أن تختار من الألقاب التالية
+Generated: وذاذار سوفسمح لك أن تختار من الأسماءبراب
+Iteration: 33000
+English: kid fell down rajjo the black monkey threw bhisham off the terrace
+Original: القرد الأسود رمى بيشام من السطح
+Generated: ولد الأسود سقط علىام من الشرفة
+Iteration: 34000
+English: then you pumped his body full of iodine and kicked him into thyrotoxicosis
+Original: وانت ملأت جسده باليود و جعلته يصاب بالانسمام الدرقي
+Generated: ثم قمتصق جسده الكاملود و طرد ي بالجلدويوي
+Iteration: 35000
+English: they should be well i want to thank you for coming all this way to washington to help us out
+Original: ونشكركم للمجيء الى واشنطن لمساعدتنا
+Generated: يجبحتاجرك علىجيئ من واشنطنتناناهمهمناهمنا
+Epoch: 04 | Time: 120m 1s
+Train Loss: 3.455 | Train PPL:  31.664 | Train Bleu Score: 0.195
+Val. Loss: 3.949 | Val. PPL:  51.885 | Val. Bleu Score: 0.090
+
+Training the model...
+Training epoch: 05
+Iteration: 0
+English: 'bye
+Original: إلى اللقاء
+Generated: مع اللقاء مع مع وداعاً مع مع مع مع مع مع مع
+Iteration: 1000
+English: for her
+Original: من أجلها
+Generated: من أجلها
+Iteration: 2000
+English: people anyone
+Original: إنه قبو يا قوم أيّ أحد
+Generated: الناس أحد الناس الناس شخص أحد
+Iteration: 3000
+English: that saved
+Original: تلك الحماية
+Generated: لقد التيت
+Iteration: 4000
+English: noi asked him
+Original: لا لقد سألته
+Generated: لا لقد طلب
+Iteration: 5000
+English: what's your name
+Original: ما هو اسمك
+Generated: ما اسمك اسمك
+Iteration: 6000
+English: it's our output
+Original: إنه مردودنا إنه أقل
+Generated: إنه دورشدتنانانا
+Iteration: 7000
+English: tell me about it
+Original: أخبرتني عنه
+Generated: قل بذلك
+Iteration: 8000
+English: ah that is brother
+Original: هذاأخى
+Generated: هذا هو
+Iteration: 9000
+English: i have saved you
+Original: انقذتكِ
+Generated: لقدتك
+Iteration: 10000
+English: winchell's open
+Original: وينشل يظهر
+Generated: ستشل مفتوح
+Iteration: 11000
+English: forces of darkness chaos temptation
+Original: قـوى الظـلام و الفـوضـى و الفتنـة
+Generated: قواتوّ الظلاملمةراءـة الخحراءـةضيعـاةـة
+Iteration: 12000
+English: my car is just outside
+Original: سيارتي في الخارج
+Generated: سيارتي فقط الخارج
+Iteration: 13000
+English: how the hostage situation developed
+Original: ما حالة الرهائن كما قلت يا سّيدي كانت غلطتي
+Generated: كيف مدى الرهائن تط ط رجلدد
+Iteration: 14000
+English: let's find a pay phone
+Original: دعنا نجد هاتفاً مدفوع الأجر
+Generated: دعنا نجد هاتفوعةاً
+Iteration: 15000
+English: bendell's department store please
+Original: متجر باندلس من فضلك
+Generated: قسم منديليل من فضلك
+Iteration: 16000
+English: i have not said anything yet
+Original: أنا لم أقل شيأ بعد
+Generated: لم لم أقل شيئاً بعد بعد
+Iteration: 17000
+English: that's what the angels say right
+Original: هذا ما قالته الملائكة صحيح
+Generated: هذا ما تقوله الملائكة صحيحتها
+Iteration: 18000
+English: be a walking target for random violence
+Original: جاعلاً من نفسي هدفًا محتملاً لأي عنفٌ عشوائي
+Generated: كنوبان في أجلاً عشوائي عشوائيًا عنف عشوائي عشوائياً
+Iteration: 19000
+English: i thought it up all by myself
+Original: فكرت في ذلك لوحدي
+Generated: لقد في الأمر بنفسي
+Iteration: 20000
+English: haley i have to tell you something
+Original: هايلى يجب ان اخبرك بامر
+Generated: هايليلى يجب ان اخبرك شيئاى لك
+Iteration: 21000
+English: lf l ever lie i will die
+Original: إذا كذبت يوماً سأموت
+Generated: لو كذبت على سأموتتي
+Iteration: 22000
+English: i told mom you were ready for this
+Original: أخبرت والدتك أنك جاهز لهذا
+Generated: لقد أمي أنك مستعد لهذا
+Iteration: 23000
+English: at least i have pants on this time
+Original: على الأقل علي سروال هذه المرة
+Generated: على الأقل لدي أنه المرة
+Iteration: 24000
+English: you should celebrate the good news with your fiance
+Original: يجب ان تحتفلى بهذه الاخبار مع خطيبك
+Generated: يجب أن نحتفلفل الخبر الخبر الاخبار الجيدة خطيبتككناك
+Iteration: 25000
+English: did you know that hotels charge bucks for socks
+Original: أكنتَ تعلم أنّ الفنادق تكلّفكَ بـ دولاراً مقابل الجوارب
+Generated: هلتَ تعرف أن الفنادق ستفها دولار دولار الجوارب
+Iteration: 26000
+English: i nearly caused you trapped in the limbo world
+Original: تقريباً جعلتك دخلتِ الي عالمِ الارواح
+Generated: لقد لقد تُ في العالم العالم النسيان النسيانواح
+Iteration: 27000
+English: but a much more specific ct myelogram
+Original: بل إلى مسحٍ طبقيٍّ أشدّ نوعيّةً لغمد النخاعين
+Generated: لكن أكثر حدتي أكثربعة أكثر أكثرعٍظاع
+Iteration: 28000
+English: now drink your nehi and eat your coney island
+Original: العدل هو العدل
+Generated: الآن تأكل
+Iteration: 29000
+English: no he is returning to the dade county coroner today
+Original: كلا سيعود إلى الطب الشرعي بـديد
+Generated: لا إنه إلى مكتب الشرعي اليومال
+Iteration: 30000
+English: my days were bounded only by the position of the sun
+Original: لم يكن لدي مواعيد
+Generated: أيام تكن هناك سوى بعدها من منيةها منيةهاها
+Iteration: 31000
+English: what if we track them they will lead us straight to darken rahl
+Original: إن تعقبناهم سيقودونا مباشرةً لـداركن رال
+Generated: ماذا تعقبناهم فسينا مباشرة إلى داركن رال دار رال رال رال دار رال رال
+Iteration: 32000
+English: hey you have french first period aren't you going to be late uh
+Original: لديك صف اللغة الفرنسية بالحصة الأولى ألن تتأخري
+Generated: لديك حفلةعة الفرنسية أولرية الأولى ألن تتأخرأخري
+Iteration: 33000
+English: whether you like it or not whether you like them or not you become family
+Original: سواءٌ أحببناهم أم لا فنحن نشكّل عائلة
+Generated: سواء أحببت أعجبكتيه أو أم لا سواء سواء بهمهم أواً
+Iteration: 34000
+English: next you will just pull a rabbit out of your hat full circle back to the hat
+Original: فى المرة القادمة ستخرجين أرنب من قبعتك
+Generated: التالي المرة القادمة سوف أرنب أرنب من هناعتك الخلفية القبعة القبعة القبعةها قبعة القبعةه قبعة قبعةهم قبعة القبعة القبعة القبعة قبعة القبعة القبعة القبعة قبعةها قبعة
+Iteration: 35000
+English: if curtin's innocent and he is going after the guy that murdered his wife and the cable repairman
+Original: إذا كان كورتين برئ وكان يتبع الرجل الذي قتل زوجته وعامل الكيبل
+Generated: إذا كان بريتين بريء و يسعى الرجل الذي قتل زوجته وادهاماهاه
+Epoch: 05 | Time: 121m 37s
+Train Loss: 3.259 | Train PPL:  26.012 | Train Bleu Score: 0.208
+Val. Loss: 3.761 | Val. PPL:  42.979 | Val. Bleu Score: 0.102
+
+Training the model...
+Training epoch: 06
+Iteration: 0
+English: sheldon
+Original: شيلدون شيلدون
+Generated: شيلدون شيلدون شيلدون شيلدون شيلدون شيلدون شيلدون شيلدون شيلدون شيلدون شيلدون شيلدون
+Iteration: 1000
+English: listen son
+Original: ـ اسمعني يا بني
+Generated: اسمع اسمع يا بني
+Iteration: 2000
+English: possible suicide
+Original: انتحارية محتملة
+Generated: هلحرريملة
+Iteration: 3000
+English: and oj
+Original: وعصير برتقال
+Generated: وصيرقال
+Iteration: 4000
+English: oh really yeah
+Original: حقاً
+Generated: حقاً
+Iteration: 5000
+English: you all set
+Original: اجلسوا جميعا
+Generated: هل جميعاً
+Iteration: 6000
+English: finally gave out
+Original: أعطىَ أخيراً
+Generated: أخيراً أخيراً أخيراً
+Iteration: 7000
+English: go for it okay
+Original: هيا حسناً
+Generated: اذهب
+Iteration: 8000
+English: pick me pick me
+Original: اختارني اختارني
+Generated: اخترنيني
+Iteration: 9000
+English: i am not really
+Original: انا حقا لست منهم
+Generated: أنا لست لست كذلك
+Iteration: 10000
+English: they held us down
+Original: هم سيطروا علينا
+Generated: لقد منوا علينا
+Iteration: 11000
+English: without crops we cannot eat
+Original: بدون محاصيلِ نحن لا نَستطيعُ الأَكْل
+Generated: بدون المحاصيل لا لا لا نستطيع أكلَكْل
+Iteration: 12000
+English: i will come with you
+Original: ساتي معك
+Generated: سآتيحضر معك
+Iteration: 13000
+English: no there is nothing else
+Original: كلا ليس هناك شيء آخر
+Generated: لا لا هناك شيء آخر
+Iteration: 14000
+English: up in the helicopter no
+Original: بالمروحية
+Generated: فيوحية لا لا لا لا لا
+Iteration: 15000
+English: edgar this is not a debate
+Original: الأمر غير قابل للجدال
+Generated: إد ليس قابل للتخياد
+Iteration: 16000
+English: what i know about is texas
+Original: لكن ما أنا خبير به هو تيكساس
+Generated: ماذا ما أعرفه أعرفهه هو تكساسساس
+Iteration: 17000
+English: that's what the angels say right
+Original: هذا ما قالته الملائكة صحيح
+Generated: هذا ما تقوله الملائكة صحيح
+Iteration: 18000
+English: metric conversion big sketch big sketch
+Original: التحويل إلى النظام المتري اسكتش كبير اسكتش كبير
+Generated: تقريرري الت حد التجاريخصصكتش كبيركتش كبير
+Iteration: 19000
+English: hi sweetheart blondes are big this year
+Original: مرحباً يا حبيبتي الشقراوات كثيرون هذه السنة
+Generated: مرحباً يا عزيزتي الشقراتوات كبيرة هذه السنة
+Iteration: 20000
+English: if a russian attack was in progress
+Original: إذا كان الهجوم الروسى مستمراً
+Generated: إذا كان هجوم الروسي في فياً
+Iteration: 21000
+English: why do not you get some rest
+Original: لماذا لا ترتاحين قليلا
+Generated: لماذا لا تحصل
+Iteration: 22000
+English: don't you think there is too many distractions
+Original: ألا تعتقد أن هناك الكثير من حالات صرف الإنتباه
+Generated: ألا تعتقد أن هناك الكثير من الت التها
+Iteration: 23000
+English: wow it is great to see you again
+Original: النجاح الباهر إنه لأمر رائع رُؤيتك ثانيةً
+Generated: من الـاهر من من عظيم رؤيتكؤيتك ثانيةً
+Iteration: 24000
+English: that's what she said i do not know what
+Original: ذلك ما قالته هي لا أفهم ما الذي تتحدث عنه
+Generated: هذا ما قالته لا لا أعرف ماذا عنه
+Iteration: 25000
+English: look my family never showed up for big events
+Original: انظري عائلتي لم تحضر إلى أي حدَث كبير لي
+Generated: لم عائلتي لم تظهر إلى الأحداث الأحداث
+Iteration: 26000
+English: i think we should all just respect her privacy
+Original: أعتقد أن علينا إحترام حياتها الخاصة
+Generated: أعتقد أننا علينا جميعاًنا بهاها
+Iteration: 27000
+English: was that a hiss rrarrrhh uhh
+Original: هل كانَ ذلكَ هسيساً إفعلوا كما اقولُ او سأقطعُ حلقهُ
+Generated: هل كانت هذا هووس ذلك هوها
+Iteration: 28000
+English: well you have not changed i consider that a compliment
+Original: حسناأنت لم تتغير أنا أعتبر هذا إطراء
+Generated: لم لم لم تتغير أنا أعتبر ذلك مجراء
+Iteration: 29000
+English: okay boone we are two minutes away two and a half
+Original: حسنـاً يـا بـون نحـن علـى بعـد دقيقتيـن دقيقتيـن ونصـف
+Generated: بون بون بونون نحـن بـ بعد الــةـنـةـنــليـة
+Iteration: 30000
+English: you stay away from me from now on no no no please
+Original: ـ عليك الابتعاد عني من الآن فصاعدا ـ لا لا من فضلك
+Generated: لا لا أن عني ـ الآن ـ لا لا لا لا فضلكوا
+Iteration: 31000
+English: does it depress you commissioner to know just how alone you really are
+Original: هل تكتئب يا مفوض عندما تدرك كم أنت وحيد
+Generated: هل هوسب الذي حضرةوضك تعرف فقط أنت لوحدك
+Iteration: 32000
+English: everything that came before everything beautiful does not exist in the public mind
+Original: كُل شيء في الماضي و كل شيء جميل لم يعد موجود في ذهن ما موجود حوليّ
+Generated: كل شيء أتى هذا كان كل شيء كان لا يكن موجوداً في العقلني حدث
+Iteration: 33000
+English: what were you doing the first year the first time you had a cardiac episode
+Original: مالذي فعلتيه لأول مرة عندما عانيتي من ألم قلبي
+Generated: ماذا كنت في مرة في يكونريض فيها في حلقةكتة
+Iteration: 34000
+English: trust me i am not going to say a single word to anyone about your oil drilling
+Original: ثق بي أنا لن أخبر كلمة واحدة لأي أحد بشأن تنقيبك للنفط
+Generated: ثق بي لن لن أقول كلمة واحدة لأي أحد عن نفقرقغطجر
+Iteration: 35000
+English: yeah it is a hard world for women but most of the ones i know can string a sentence together
+Original: إنه عالم قاسي على النساء لكن من أعرفهن يستطعن صياغة جمل مفهومه
+Generated: نعم عالم صعب للنساء النساء لكن معظم معظم أن أن أن أنغة جملةياد
+Epoch: 06 | Time: 121m 42s
+Train Loss: 3.157 | Train PPL:  23.496 | Train Bleu Score: 0.214
+Val. Loss: 3.633 | Val. PPL:  37.837 | Val. Bleu Score: 0.117
+
+Training the model...
+Training epoch: 07
+Iteration: 0
+English: marks
+Original: ماركس
+Generated: علامات علامات علامات علامات علامات علامات علامات علامات علامات علامات علامات علامات
+Iteration: 1000
+English: the mouse
+Original: الفأر
+Generated: الفأر
+Iteration: 2000
+English: good times
+Original: هل لديك صرع
+Generated: أوقات هناك وقتاع
+Iteration: 3000
+English: code kansas
+Original: كود كانساس
+Generated: كود كنساس
+Iteration: 4000
+English: oh right sorry
+Original: أوه صحيح آسف
+Generated: آسف آسف آسف
+Iteration: 5000
+English: that's not fair
+Original: ذلك ليس عادلا
+Generated: هذا ليس عدلاًلا
+Iteration: 6000
+English: what the fuck
+Original: ما هذا بحق الجحيم
+Generated: ماذا هذا الجحيم
+Iteration: 7000
+English: bear came this way
+Original: جاء الدب من هذا الاتجاه
+Generated: الدب الدب بهذه هنا الطريق
+Iteration: 8000
+English: i was really scared
+Original: لقد كنت خائفاً
+Generated: كنت كنت خائفة حقاً
+Iteration: 9000
+English: this is awesome homes
+Original: هذا رائع يا رجل
+Generated: هذا بيت صديقي
+Iteration: 10000
+English: certainly beyond my control
+Original: بالتأكيد فوق سيطرتي
+Generated: بالتأكيد من سيطرتي
+Iteration: 11000
+English: you cannot leave me now
+Original: أنت لا تَستطيعُ تَرْكي الآن
+Generated: لا لا تستطيع تَرْك الآن
+Iteration: 12000
+English: okay there is the snap
+Original: حسناَ
+Generated: حسناً هناك
+Iteration: 13000
+English: we have to stop it
+Original: يجب أن نمنعه
+Generated: يجب علينا نوقفوقفعه
+Iteration: 14000
+English: shut the door behind you
+Original: أغلق الباب خلفك
+Generated: أغلق الباب خلفك
+Iteration: 15000
+English: is that uther i saw leaving
+Original: هل هذا أوثر الذي شاهدته يرحل
+Generated: هل هذا أوثر رأيت رأيت
+Iteration: 16000
+English: that's what i am all right
+Original: هذا ما اكون عليه حسنا
+Generated: هذا ما أنا بخير حسنا
+Iteration: 17000
+English: i got invited to the prom
+Original: لقد دعوت إلى الحفلة
+Generated: لقد دعوت إلى الحفلة الراقصة
+Iteration: 18000
+English: why do you hate people so much
+Original: لماذا تكرهين الناس هكذا
+Generated: لماذا تكره الناس كثيرا
+Iteration: 19000
+English: i asked him to vacate the place
+Original: سألته لإخلاء المكان
+Generated: لقد أنلاء المكان
+Iteration: 20000
+English: you are getting a little distance man
+Original: سوف تحتاج الى الراحه يارجل
+Generated: أنت تحصل الى مسافةحه الصغير
+Iteration: 21000
+English: well did he put the moves on
+Original: هل بادرَ بالحركات عليك
+Generated: حسناً وضعقت على علىركة
+Iteration: 22000
+English: city's got to pay for that bleep too
+Original: يجب على المدينة أن تدفع لهذا أيضاً
+Generated: المدينة أن المدينة أن تدفع ثمن
+Iteration: 23000
+English: what happened at jimmy's should never happen again
+Original: ما حدث في منزل جيمي يجب ألَّا يتكرَّر
+Generated: ماذا الذي في جيمي جيمي لم أنحدث مرة أبداًررَّ
+Iteration: 24000
+English: you should celebrate the good news with your fiance
+Original: يجب ان تحتفلى بهذه الاخبار مع خطيبك
+Generated: يجب أن نحتفلفلرا الخبر الاخبار الجيدة خطيبتك
+Iteration: 25000
+English: when i was in it i owned this town
+Original: عندما كنت في هذا المجال كنت أمتلك هذه المدينة
+Generated: عندما كنت في داخله لقد لقد أمتلك هذه البلدة
+Iteration: 26000
+English: the next day patrick and his buddies found me
+Original: في اليوم التاليباتريكورفاقه وجدوني
+Generated: اليوم اليوم التالي باتريكريك وجداهقي وجدوني
+Iteration: 27000
+English: i guess the honest answer is i do not know
+Original: أعتقد إن الجواب الصادق لا أدري
+Generated: أعتقد أن الإجابة الحقيقيادق هو أعرف
+Iteration: 28000
+English: just a nebrey she will not hurt you
+Original: مجرد نبري لن تضرك
+Generated: لن نااري لن تؤذيايقك
+Iteration: 29000
+English: well whatever he still kissed another girl in front of you
+Original: هو لا يزال يقبل فتاة أخرى أمامك
+Generated: حسناً ما يزال قد فتاة أخرى أمامك
+Iteration: 30000
+English: she visits twice a year she sees what she wants to see
+Original: أمي تزورني مرتين في السنة مالذي تريدينها رؤيته
+Generated: إنها إنها مرتين مرتين في السنة التي تريد رؤيته أنها
+Iteration: 31000
+English: i am going to perform a procedure on you called milking the prostate
+Original: سوف اقوم الأن بعمل تمسيد للبروستات
+Generated: سأقوم أقوم بعمل بإجراء اجراءريرتيبرستات
+Iteration: 32000
+English: so instead of making the mines safer he hired himself an attorney general
+Original: بدلاً من جعل المنجم أكثر أمناً صوّب عينه فحسب على النائبة العامة أجل
+Generated: لذا من صنع الألغام أكثر أماناً إستادررا نفسه في محاميئبها
+Iteration: 33000
+English: you got the wrong guy i swear i do not play with molotov cocktails
+Original: أنت أمسكت الرجل الخطأأنا أحلف بالله
+Generated: لقد حصلتَ الخطأ أقسم أقسملف لا أنا كوكتها لا لاتهاتها مع لا مع
+Iteration: 34000
+English: nestor hippolyte it does not matter sooner or later they give you a bad time
+Original: نيسترهيبوليتانه لا يهم عاجلآ أم آجلآهم الذين يتركونك
+Generated: لاستروونتيولي لا لا يهم عاجلاً أو أو لاًا سي يكمهمهم سيئهم
+Iteration: 35000
+English: someone's going to get the blame for what happened so the more we spread it around we might as well
+Original: هناك من سيتلقى اللوم على ما حدث لذا فكلما نشرنا الأمر أكثر
+Generated: شخص شخص سيلقى اللوم على ما حدث بعد سننا نشنا بهنانانانانانانانانانانا
+Epoch: 07 | Time: 121m 31s
+Train Loss: 3.132 | Train PPL:  22.915 | Train Bleu Score: 0.215
+Val. Loss: 3.370 | Val. PPL:  29.083 | Val. Bleu Score: 0.173
+
+Training the model...
+Training epoch: 08
+Iteration: 0
+English: anyway
+Original: علي أية حال
+Generated: على أية حال على على على على على على على على على
+Iteration: 1000
+English: hotel bourbon
+Original: فندق بوربونـ
+Generated: فندق بيربون بيربونبونونوننان
+Iteration: 2000
+English: hey wait
+Original: و أنـت لست متـأكـداً
+Generated: مهلاً أنت لا بخيرابعّداًـاـا
+Iteration: 3000
+English: you nervous
+Original: متوتره
+Generated: هلاً متوتر
+Iteration: 4000
+English: are you uptight
+Original: لديك الأعصاب
+Generated: هل حساسية
+Iteration: 5000
+English: do you agree
+Original: هل توافق على هذا
+Generated: هل توافقين ذلك
+Iteration: 6000
+English: are you scared
+Original: هَلْ أنت خائف
+Generated: هل أنت خائف
+Iteration: 7000
+English: to get my toothbrush
+Original: احصل على فرشاتي
+Generated: للحصول على فرشاةشاةتي
+Iteration: 8000
+English: down with the bomb
+Original: تسقط القنبلةِ تسقط القنبلةِ
+Generated: أسفل القنبلة
+Iteration: 9000
+English: come on get out
+Original: هيا أخرجي
+Generated: هيا اخرجوا
+Iteration: 10000
+English: apc is down
+Original: المدرعة الأولي تدمرت
+Generated: لقدسي أسفل
+Iteration: 11000
+English: but you do know frank
+Original: لَكنَّك تعلم فرانك
+Generated: لكن تَعْرفُ فرانك
+Iteration: 12000
+English: he was perfect for tonight
+Original: كان مثاليًا لهذه الليلة
+Generated: كان مثالياًًا لهذه الليلة
+Iteration: 13000
+English: the bad guy was caught
+Original: الشاب السيئ مُسِكَ
+Generated: الرجل السيئ تمكن
+Iteration: 14000
+English: shoot her in the face
+Original: أطلق النار في وجهها
+Generated: أطلق عليها عليها وجهي
+Iteration: 15000
+English: a crawler easy come on
+Original: صغيرة هيا
+Generated: هيا سهلة
+Iteration: 16000
+English: oh hey no hard feelings man
+Original: لاضغينة يارجل
+Generated: أوه مشاعر مشاعر
+Iteration: 17000
+English: we might want to seek shelter
+Original: ربما علينا الأختباء
+Generated: ربما نريد أنفاء
+Iteration: 18000
+English: i have got the cable man coming
+Original: أنا عِنْدي مجيئ رجلِ السلكَ
+Generated: لقد حصلت رجل رجل الك الكبلال
+Iteration: 19000
+English: we've got every one of your moves
+Original: لقد حصلنا على كل خطواتك
+Generated: لدينا حصلنا على كل منواتك
+Iteration: 20000
+English: don't cry baby baby i am sorry
+Original: لا تبكي يا طفلتي أنا أسفة
+Generated: لا تبكي يا عزيزي أنا آسف
+Iteration: 21000
+English: i believe they are going to mate
+Original: أَعتقدُ بأنّهم سَيُزاوجُ
+Generated: أعتقد بأنّهم ذاهِبحُْ
+Iteration: 22000
+English: you are not as stupid as you look
+Original: أنت لست أحمق كما يبدو عليك
+Generated: أنت لست غبي كما تنظر
+Iteration: 23000
+English: and i found the lamp underneath the afghan
+Original: و وجدتُ المصباح تحت مفرش الكروشية
+Generated: و وجدت المصباح تحت الأفغغ غ
+Iteration: 24000
+English: what kind of stuff do you like to read
+Original: ماهو الصنف الذي تحبين أن تقرأيه
+Generated: أي نوعرف الذي تحب أن تقرأه
+Iteration: 25000
+English: same as the blood we found on brian's knuckle
+Original: نفس الدم الذي وجدناه على براجم براين
+Generated: كما الدم الذي وجدناه على شريطيم براين
+Iteration: 26000
+English: so that is it just a kiss nothing else
+Original: لاشيء اخر حسنا
+Generated: لذا آخر
+Iteration: 27000
+English: it was dark and it began to get to me
+Original: كانت ظلمة و بدأت تؤثر في
+Generated: لقد مظلمة مظلم و بدأت أن علي الأمر
+Iteration: 28000
+English: he's a nice guy we have a lot in common
+Original: أنه رجل لطيف لدينا الكثير من القواسم المشتركة
+Generated: إنه رجل لطيف لدينا الكثير من الأمورسم المشتركة
+Iteration: 29000
+English: when you return to new york say goodbye to my sister
+Original: عندما تعود إلى نيويورك قل وداعاً إلى أختى
+Generated: عندما تعود إلى نيويورك قل وداعاً لأخ أختيتيتي
+Iteration: 30000
+English: that's right that is right black men like to exercise their variety
+Original: هذا صحيح السود يحبون ممارسة التنويع
+Generated: هذا صحيح الرجال يحب أن التظيمرات
+Iteration: 31000
+English: the doctor's gone to the putnams' their ruth cannot wake either
+Original: الطبيب ذهب لعائلة بوتنم لأن روث لم تستيقظ أيضاً
+Generated: الطبيب ذهب إلى سونيانام لن روث روث يستيقظهم
+Iteration: 32000
+English: all i ask is that you see me for who i really am
+Original: وانا لن ادعه يحدث مره اخرى
+Generated: كل كذلك افعلك هذا اخرى
+Iteration: 33000
+English: i have got work i have become a model the contract is in my hand
+Original: العقد هو في يدي وأنا الآن يمكن ان تهتم بيا و
+Generated: لدية من يدي لدي أن يكونض أنا
+Iteration: 34000
+English: you got yourself shut in for days well you could have come up with a better excuse
+Original: وأنت كان بأمكانك أن تجد عذراً أفضل من الذي قلته
+Generated: لقد فقط لديك أن تكون نفسك على هذا يمكن
+Iteration: 35000
+English: they are a little tiedup right now but they told me they would back me when i need them
+Original: هُم مشغولين الآن هم أخبرونى بأنهُم سيدعموننىّ عند حاجتىّ إليهِم
+Generated: إنهموـا قليلاً لكنهم أخبرونيوني عندما سيعود عندماعونني عندما عندما الحاجةتهم
+Epoch: 08 | Time: 121m 19s
+Train Loss: 3.193 | Train PPL:  24.352 | Train Bleu Score: 0.209
+Val. Loss: 3.561 | Val. PPL:  35.188 | Val. Bleu Score: 0.129
+
+Training the model...
+Training epoch: 09
+Iteration: 0
+English: fantastic
+Original: رائع هذا أمر عظيم
+Generated: لمن خُذْ ولمَ باأن رائد حضور صلبة باأنركز الحب فريقييرى
+Iteration: 1000
+English: bring it
+Original: أو درجة
+Generated: لا
+Iteration: 2000
+English: how much
+Original: كم دفع
+Generated: ماذا هذا
+Iteration: 3000
+English: no gum
+Original: علكة
+Generated: لا
+Iteration: 4000
+English: jeffinthebox
+Original: جيف في صندوق
+Generated: من
+Iteration: 5000
+English: but this time
+Original: و لكن هذه المرة
+Generated: ما هذا هذا
+Iteration: 6000
+English: no not again
+Original: كلا ليس مُجدّداً
+Generated: ليس ليس ليس
+Iteration: 7000
+English: any breakfast lying around
+Original: أي فطور متناثر على الأرض
+Generated: هل شخص عن
+Iteration: 8000
+English: hey my life sucks
+Original: صاح حياتي سيئة
+Generated: مرحباً هذا
+Iteration: 9000
+English: what are you asking
+Original: ماذا تطلب
+Generated: ماذا تفعل
+Iteration: 10000
+English: sorry about the odor
+Original: آسف بشأن الرائحة
+Generated: آسف يا لي
+Iteration: 11000
+English: do you do weddings here
+Original: هل تُقيم حفلات زفاف هنا
+Generated: هل أنتعد من هنا
+Iteration: 12000
+English: we agreed to go slowly
+Original: كنت سأتصل بكِ و ألغيت بعد حديثنا
+Generated: يجب يجب على على
+Training the model...
+Training epoch: 09
+Iteration: 0
+English: hello
+Original: هل انتِ بخير
+Generated: مرحباً أنت بخير
+Iteration: 1000
+English: did she
+Original: أحقًا
+Generated: هلًاتها
+Iteration: 2000
+English: oh something
+Original: أوه شيء
+Generated: أوه شيء
+Iteration: 3000
+English: dr long
+Original: لونج
+Generated: د
+Iteration: 4000
+English: have died trying
+Original: حالةمحاولة
+Generated: لقد وفاةمت
+Iteration: 5000
+English: she can control
+Original: تستطيع السيطرة
+Generated: يمكنها التحكمتها
+Iteration: 6000
+English: was i drunk
+Original: من المحتمل
+Generated: هل كنت أن
+Iteration: 7000
+English: best ask your father
+Original: من الأفضل أن تسأل أباك
+Generated: أفضل الأفضل أن أسأل والدك
+Iteration: 8000
+English: lactose intolerance
+Original: حساسية لمنتجات الالبان
+Generated: لا لاوزسكوز
+Iteration: 9000
+English: my nephew eats them
+Original: أنهم يفعلون أبن اخي يأكلها
+Generated: ابن ي ذلك أخي يأكلهم
+Iteration: 10000
+English: physical phil was right
+Original: فيلسوف الفيزياء كان على حق
+Generated: فيل الطبيعيي كان محقاً حق
+Iteration: 11000
+English: i am going to dinner
+Original: كلاانا اسفة انا ذاهبة للعشاء
+Generated: سأذهب ذاهب ذاهب للعشاء
+Iteration: 12000
+English: the tryouts are this saturday
+Original: الإختبارات ستبدأ بيوم السبت
+Generated: الإختبارات هو السبت
+Iteration: 13000
+English: surely i am better looking
+Original: بالتأكيد انا افضل منك مظهرا
+Generated: بالتأكيد أنا أفضل انظهريرا
+Iteration: 14000
+English: don't be dodgy about that
+Original: لا تَكُنْ مُخادع حول ذلك
+Generated: لا تكننْ أحمقيَّ ذلك
+Iteration: 15000
+English: tweak the contrast find some edges
+Original: أتحكم بالتباين و أجد الحافات
+Generated: إورط ببعضفاقة ببعض أجد بعضوائ
+Iteration: 16000
+English: charlie berns rabbi gutterman
+Original: أنا شارلي بيرنز و أنا الحاخام غاترمان
+Generated: تشارلي تشارلي بير أناصلمانب
+Iteration: 17000
+English: stop it with our bare hands
+Original: انوقفه بايدينا
+Generated: توقفقطع عن معدينا
+Iteration: 18000
+English: this is just like sandals resort mmmhmm
+Original: هذا مثل مصيف الصندلِ
+Generated: هذا فقط المنتح الطنادل
+Iteration: 19000
+English: we were hoping you could tell us
+Original: نحن كنّا نتمنّى بأنّك يمكن أن تخبرنا
+Generated: كنا نأمل نأملمنّى بأنّك يُمْكِنُ أن تخبرنا لنانانانا
+Iteration: 20000
+English: what are agents supposed to look like
+Original: ماذا يفترض أن يبدو عليه العملاء
+Generated: ما يفترض أن يبدو العميل العملاء
+Iteration: 21000
+English: you guys had some amazing times together
+Original: لقد حظيتما بأوقات رائعة معا
+Generated: لقد حظيتم بوقتوقات مذهلة معاً
+Iteration: 22000
+English: you think she is still at the mall
+Original: أتظنين أنّها لا تزال بالمتجر
+Generated: هل أنها ما تزال فيابعة
+Iteration: 23000
+English: because there was no evidence of foul play
+Original: لأنه لم يكن هناك دليل لهذه اللعبة السخيفة
+Generated: لأنه كان يكن هناك دليل على اللعبة
+Iteration: 24000
+English: i have to get out of here i have
+Original: إسمعي يا عزيزتي أعتذر لكِ عليّ الإنصراف من هنا
+Generated: يجب يجب رجل عن أنصراف هنا
+Iteration: 25000
+English: have you spoken to sheriff adams about this chloe
+Original: هل تحدثت مع المأمورة آدمز بشأن هذا يا كلوي
+Generated: هل تحدثت مع الشريفديرولة آدمز حول هذا كلوي كلوي
+Iteration: 26000
+English: if that is the way you want it roomie
+Original: إذا كنت تريد ذلك الطريق ياشريك غرفتي
+Generated: إذا كان تريد ذلك ياريك
+Iteration: 27000
+English: cell phone chimes will you turn that damn thing off
+Original: هلا أطفئتِ هذا الشيء اللعين
+Generated: هل أطفأتتى هذا الشيء اللعين
+Iteration: 28000
+English: there is something about this man he's up to something
+Original: يوجدُ شيءٌ ما حيال هذا الرجل إنّه بصددٍ شيء ما
+Generated: هناك شيء شيء ما حول هذا الرجل إنه يت شيء ما ما
+Iteration: 29000
+English: i have trieddirector we do not have probable cause
+Original: لقد حاولت أيتها المديرة لكن ليس لدينا سبب وجبه
+Generated: لقد حاولت أيها المديرة ليس ليس لدينا سبب محتملتنا محتملتي
+Iteration: 30000
+English: no no no this party is crazy flat dumb dumb doodie
+Original: لا لا لا هذا الحزب هو مجنون شقة البكم البكم
+Generated: لا لا هذه هذه الحفل المجنون مجنون غبي غبيةغيغي
+Iteration: 31000
+English: she is an actress her name's amy o'brien i spoke to her agent
+Original: إنها ممثلة اسمها أيمي اوبرين تكلّمت مع وكيلها وأرسلوا لي هذا
+Generated: إنها ممثلة اسمها إيمي أوبراوبراين تحدثتّمت مع وكيهاخبارها لهاتها
+Iteration: 32000
+English: i would like you to meet two of my oldest and dearest friends
+Original: أريدك أن تلتقي اثنين من أعزّ وأقدم أصدقائي
+Generated: أود أن تقابل بشخص من أعز أصدقائي أصدقائيصدقاء أصدقائي
+Iteration: 33000
+English: you do not owe me anything you do not have to love me in return
+Original: أنت لا تدين لي بشيء لست ملزماً لمبادلتي شعور الحب
+Generated: لا لا تدين لي بأي لا مضطراًزماً في يكنتي أنى
+Iteration: 34000
+English: hey there is a football game this weekend if you would be interested in that at all
+Original: هناك مباراة لكرة القدم في نهاية هذا الأسبوع ـ
+Generated: هناك مباراة كرة القدم هذه عطلة الأسبوع الأسبوع إن إن في لوتم أنتيتم
+Iteration: 35000
+English: the feathery flanges on its legs are so large they can be seen from quite a distance
+Original: الحواف الريشية على سيقانها كبيرة جداً بحيث يمكن رؤيتها من مسافة بعيدة
+Generated: ريف فيفية في ساانه كبيرة جداً يمكن أن بعيدة مسافة بعيدة
+Epoch: 09 | Time: 92m 18s
+Train Loss: 3.128 | Train PPL:  22.836 | Train Bleu Score: 0.215
+Val. Loss: 3.578 | Val. PPL:  35.800 | Val. Bleu Score: 0.150
+
+Training the model...
+Training epoch: 10
+Iteration: 0
+English: tim
+Original: نعم
+Generated: تيم تيم تيم تيم تيم تيم تيم تيم تيم تيم تيم تيم
+Iteration: 1000
+English: a little
+Original: صغير
+Generated: قليلاً
+Iteration: 2000
+English: go away
+Original: اذهبوا بعيدا اذهبوا
+Generated: إذهب بعيداًواواوا
+Iteration: 3000
+English: fucking a
+Original: لتشريفشريكهمالسابق تباً
+Generated: اللعنةحيمنةاء
+Iteration: 4000
+English: ththe prize
+Original: الجائزة
+Generated: ـ
+Iteration: 5000
+English: good night daddy
+Original: تصبح عل خير يا أبت
+Generated: ليلة على خير يا أبي
+Iteration: 6000
+English: i know stuff
+Original: اعرف بعض الاشياء
+Generated: أعلم اشياء الاشياء
+Iteration: 7000
+English: honored and blessed father
+Original: أبـانا المبجـَّل والمُبـارَك
+Generated: شرفوكسي الشرفجلرينـّ
+Iteration: 8000
+English: they murdered my father
+Original: هم قتلوا والدي
+Generated: لقد قتلوا والدي
+Iteration: 9000
+English: someone might come in
+Original: قد يأتي احدهم
+Generated: شخص يدخل أحد
+Iteration: 10000
+English: his name is danny
+Original: اسمه داني
+Generated: اسمه داني
+Iteration: 11000
+English: what agency is he with
+Original: مع اي مؤسسة يعمل
+Generated: أي أي الوكالة
+Iteration: 12000
+English: ah it is mostly muscle
+Original: لا انها على الاغلب عضلات
+Generated: إنها يوجد عضلات الأغلبغلب
+Iteration: 13000
+English: we can arrange for that
+Original: نحن يُمْكِنُ أَنْ نُرتّبَ لذلك
+Generated: يمكننا يُمْكِنُ أَنْ نَرتببَ لذلك
+Iteration: 14000
+English: did you stop eating no
+Original: هل إمتنعت عن الأكل خلال هذان الشهران
+Generated: هل توقفتِعتْ الأكل الاثنان
+Iteration: 15000
+English: chuckles five letters starts with w
+Original: خمسة احرف تبدأ بحرف
+Generated: خمس رسائلرف تبدأ بحرف الـ
+Iteration: 16000
+English: being alone with him and all
+Original: كونك وحيده معه
+Generated: أن وحيداًه و وكل كل
+Iteration: 17000
+English: rachel rachel look how you glow
+Original: راشيل راشيل أن ننظر كيف توهج
+Generated: رايتشل رايتشل انظرظرا كيف توهج
+Iteration: 18000
+English: it would not need to be over
+Original: هل تحتاج أن تنتهي
+Generated: لا هذا ان تكون
+Iteration: 19000
+English: true but he is not a catholic
+Original: صحيح لكنه ليس كاثوليكياً
+Generated: صحيح لكنه ليس كاثوليكيةكي
+Iteration: 20000
+English: customers everybody and a lot of them
+Original: عملاء إلى الكل والكثير منهم
+Generated: الزبائن كل كل والكثير منهمهمهمهم
+Iteration: 21000
+English: you sure you are ready for this
+Original: هل انتِ متاكدة انك مستعدة لهذا
+Generated: هل أنت متأكدة من مستعد لهذا
+Iteration: 22000
+English: you seem kind of quiet er than usual
+Original: تبدو صامتا أكثر من المعتاد
+Generated: يبدو هادئةتة من من المعتاد
+Iteration: 23000
+English: ah you know i cannot do that nancy
+Original: تعلمين أنني لا أستطيع فعل ذلك يا نانسي
+Generated: أتعلم أنني لا أستطيع أن ذلك نانسي نانسي
+Iteration: 24000
+English: i need some crystal glasses and some ice and
+Original: أريد بعض الكؤوس الزجاجية وبعض الثلج و
+Generated: أحتاج بعض النظاراتسور الكريية و الثلج
+Iteration: 25000
+English: hello welcome to the hub may i help you
+Original: مرحبا اهلا بك في هوب هل لي انا اساعدك
+Generated: مرحباً مرحبا بكم في المح هل استطيع بمساعدتك اساعدك
+Iteration: 26000
+English: it's funny when it is not happening to us
+Original: عندما لا نكون نحن الضحية
+Generated: إنه لا يحدث سعداءنا
+Iteration: 27000
+English: he's soulful when you do not expect it
+Original: أعرف إنه شديد العاطفة عندما لا تقبلين به
+Generated: إنه أنه س الس عندما لا تتوقعين ذلك
+Iteration: 28000
+English: it's absolute tosh lily stop making a show of yourself
+Original: إنه كذب محض ليلي كُفِ عن التظاهر
+Generated: إنه تو يا يا توقفيشف عن جعل بنفسك لنفسككِكِ
+Iteration: 29000
+English: a steak made out of beans held together with soy glue
+Original: ألـيس كلنا نـغشّ قـليلاً أقـصد بأنـّي أخـصائية تـغذية
+Generated: شريحةصقحمـة منوعـب منائم من منـاماصهاــرىملـلكـ
+Iteration: 30000
+English: they do not forget not in this town it's not very nice
+Original: ان الناس لا ينسون خاصة فى هذه البلدة انه أمر غير لطيف
+Generated: لاسوا لا ينسون ليس هذه هذه البلدة ليس غير لطيف جداين
+Iteration: 31000
+English: tilly rice was wearing a hat rather like bess sedgwick's
+Original: كان تيلى رايس ترتدى قبعة تشبه ما تلبسه بيس سيدويك الى حد ما
+Generated: تي تيلى رايس يرتدي قبعة مثل بي يشبهسين سيدج هنا ما
+Iteration: 32000
+English: and i know that you are going to pass like you always do
+Original: وأنا أعلم بأنك ستجتاز هذا الإختبار كما تفعل دائماً
+Generated: و أعلم أنك ستمرتاز مثل كما دائماً تفعل دائماً
+Iteration: 33000
+English: i just wanted to stop and think about it for a second that is all
+Original: فقط كنت أرغب أن أوقف وأفكر قليلاً هذا كل ما في الأمر
+Generated: أردت أردت أريد بالت أتوقفهافكر بالأمر هذا كل شيء في الأمر
+Iteration: 34000
+English: and the next thing i know they shut it all down and i was transferred to metropolis
+Original: والشئ التالي الذي عرفته أنهم أخفوا كل هذا ونقلوني إلى العاصمة
+Generated: والشيءيء التالي الذي أعرفه أغلقوا أغلقفوا كل شيء وقلتني إلى ميتو
+Iteration: 35000
+English: if you and i are in same time zone cola should be with one of us not both of us
+Original: لأنه لا يمكنه التواجد في مكانين بوقت واحد
+Generated: إذا إذا يوجد أن في نفس ماكم كاي واحد واحدنا
+Epoch: 10 | Time: 92m 16s
+Train Loss: 3.012 | Train PPL:  20.329 | Train Bleu Score: 0.222
+Val. Loss: 3.504 | Val. PPL:  33.239 | Val. Bleu Score: 0.160
