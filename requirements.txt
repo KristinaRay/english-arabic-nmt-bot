@@ -1,0 +1,12 @@
+python-telegram-bot
+youtokentome
+requests
+wheel
+cython
+ipython
+tqdm
+nltk
+numpy
+torch
+transformers
+matplotlib
