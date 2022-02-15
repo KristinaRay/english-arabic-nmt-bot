@@ -1,0 +1,1512 @@
+Number of tokens in source language: 24000
+Number of tokens in target language: 32000
+Number of training examples: 4500000
+Number of validation examples: 250000
+Number of testing examples: 250000
+Number of training batches: 35157
+Number of validation batches: 1954
+Number of testing batches: 1954
+
+Training the model...
+Training epoch: 01
+Iteration: 0
+Arabic: أنفي
+Original: crowd groaning and sighing ow my nose
+Generated: humping restaur corpor slippersbowsbowstibows donner humping humping y'know encoded
+Iteration: 1000
+Arabic: بريان
+Original: brianne
+Generated: 
+Iteration: 2000
+Arabic: دعني أساعدك
+Original: here let me help you get that off
+Generated: 
+Iteration: 3000
+Arabic: هيا إذا
+Original: go on then
+Generated: 
+Iteration: 4000
+Arabic: المكان خالِ
+Original: clear
+Generated: 
+Iteration: 5000
+Arabic: هذا ما أقصده
+Original: that's it
+Generated: 
+Iteration: 6000
+Arabic: كأنهم مازالوا هنا
+Original: it's like they are still here
+Generated: i
+Iteration: 7000
+Arabic: المفتاح هو المفتاح
+Original: the key is the key
+Generated: i is
+Iteration: 8000
+Arabic: إننا مراقبون
+Original: we are being observed
+Generated: you are a
+Iteration: 9000
+Arabic: أرأيت أين ذهب صديقي
+Original: did you see where my friend went
+Generated: you you are you you
+Iteration: 10000
+Arabic: أخرج من بيتي حسناً
+Original: get out of my house ok
+Generated: i the the
+Iteration: 11000
+Arabic: الرائحة نتنة هناك
+Original: it's pretty rank down there
+Generated: the a good
+Iteration: 12000
+Arabic: إلي أين أنا ذاهبة
+Original: where am i going to
+Generated: how is you know to you
+Iteration: 13000
+Arabic: جوى أدخل وسأشغله
+Original: joey get in and i will work it
+Generated: i i the the i am be
+Iteration: 14000
+Arabic: أتعلم ما الغريب يا جاك
+Original: you know what is crazy jack
+Generated: you know what you a
+Iteration: 15000
+Arabic: لقد حافظ على صمته
+Original: it was silenced but
+Generated: you is a
+Iteration: 16000
+Arabic: هل تريدون مساعدتي في الاختيار
+Original: you fellas want to help me pick
+Generated: do want want to go me me
+Iteration: 17000
+Arabic: هذاني اسوي لك معروف
+Original: i just did you a favor
+Generated: this am am not get little
+Iteration: 18000
+Arabic: اٍتركنا بمفردنا أيها الرقيب
+Original: leave us sergeant
+Generated: we them a
+Iteration: 19000
+Arabic: نعم أنت قد لا تعرفني لكن
+Original: yeah you might not know me but
+Generated: yeah but do not know
+Iteration: 20000
+Arabic: أأشتري لك شراب افريت
+Original: buy you a drink everett
+Generated: you you a little
+Iteration: 21000
+Arabic: صديقته الخيالية إنفضلت عنه
+Original: his i am going toginary girlfriend broke up with him
+Generated: the life have going to than him
+Iteration: 22000
+Arabic: هل تعرفين ان لديها مخزن للآثار
+Original: wellyou knowmelinda's got this antique store ohi do not understand
+Generated: do know he is a a know
+Iteration: 23000
+Arabic: لكن لو فعلت ذلك فسأقود أنا
+Original: though if you do i will drive
+Generated: but but i can not do do it
+Iteration: 24000
+Arabic: لم يسبق له إتهامه بجريمة أخرى
+Original: he has never been charged with any other crime
+Generated: i never not have in to her of years
+Iteration: 25000
+Arabic: سأنتبه لما أقوله لو أنني مكانك لماذا
+Original: i would watch myself if i were you
+Generated: i am tell what but you will going
+Iteration: 26000
+Arabic: الكل كان يعتقد أنه عاد ليتصالح مع عائلته
+Original: ive lost thought the old man had returned to make peace with his family
+Generated: he always the he first way he been the him his own
+Iteration: 27000
+Arabic: بدون إعتبار آردن او بورشا
+Original: and arden did not count or portia
+Generated: no no or not even or a
+Iteration: 28000
+Arabic: انا لا أريد أن أقضي يوم آخر او دقيقة آخرى
+Original: i do not want to spend another day yet another minute
+Generated: i just not want to go a minute or
+Iteration: 29000
+Arabic: أعتقد أنهم يحرقون بعض النفايات هناك في بعض الأحيان
+Original: i think theyjust burn rubbish there sometimes
+Generated: i think they are are out there
+Iteration: 30000
+Arabic: إيريك لقد وصلت إلى المنطقة التي لم يسعني ولوجها
+Original: erik you are there you've reached the void
+Generated: i i have the i got the way i and
+Iteration: 31000
+Arabic: كلمات قذرة يمكنك لفظها على الحاسبة هي موضوع هام
+Original: dirty words you can spell on your calculator is a very important subject
+Generated: the you can can do the the own a little little
+Iteration: 32000
+Arabic: إذن لا يجب أن نُرْجأ هذا الأمر أكثر من هذا
+Original: then we should not delay this any longer
+Generated: so we should not have this more
+Iteration: 33000
+Arabic: في هذه المرحلة فإن فتح حاسوبكِ النقال لهو أمر فائض
+Original: at this point cracking open your laptop is almost redundant
+Generated: in this case the the your head the on
+Iteration: 34000
+Arabic: ولا دانييل هايل بالإضافة إلى أنه لم يكن هناك أية شهود آخرين على هذا الحادث
+Original: in addition there were no other witnesses to this shooting
+Generated: no the no was no one no and do is
+Iteration: 35000
+Arabic: نظن أنها مصابة بإلتهاب الأغشية السحائية و الذى يمكن أن يقتلها قبل أن ترجع نتائج التحاليل
+Original: we think it is meningococcal disease which could kill her before the results come back
+Generated: i think that was aededededated and could have us body they murder
+Epoch: 01 | Time: 94m 31s
+Train Loss: 5.050 | Train PPL: 155.959 | Train Bleu Score: 0.115
+Val. Loss: 4.270 | Val. PPL:  71.493 | Val. Bleu Score: 0.089
+
+Training the model...
+Training epoch: 02
+Iteration: 0
+Arabic: تحدي
+Original: challenge
+Generated: he the of to to to to to to to to to to
+Iteration: 1000
+Arabic: أغار
+Original: jealous
+Generated: oh
+Iteration: 2000
+Arabic: أوستن ماذا
+Original: austin austin
+Generated: what what what what what
+Iteration: 3000
+Arabic: تعالوا هنا
+Original: bring it in here
+Generated: come it here here
+Iteration: 4000
+Arabic: أغنية تَنتهي
+Original: song ends
+Generated: the you
+Iteration: 5000
+Arabic: ماذا أَقُولُ دائماً
+Original: what do i always say
+Generated: what do you always say
+Iteration: 6000
+Arabic: لا أريد البقاء
+Original: i do not want to stay
+Generated: i do not want to stay
+Iteration: 7000
+Arabic: مالذي تشربينه
+Original: what are you drinking
+Generated: what are you drinking
+Iteration: 8000
+Arabic: أيمي بأنّك تَعمَلُ
+Original: amy that you do
+Generated: amy you is do
+Iteration: 9000
+Arabic: هذا الكثير من المعلومات
+Original: that's a lot of information
+Generated: this a lot of information
+Iteration: 10000
+Arabic: طبعاً هل أنتَ بخير
+Original: are you all right
+Generated: sure you sure right
+Iteration: 11000
+Arabic: ستكون آمنةً الآن
+Original: she will be safe now
+Generated: you will be safe now
+Iteration: 12000
+Arabic: أنا معه استمع اليه
+Original: i am with you listen to him
+Generated: i am trying him to to him
+Iteration: 13000
+Arabic: تعال إلى هنا أيها البطل
+Original: come here man of action
+Generated: come here here the
+Iteration: 14000
+Arabic: ليس عندنا ساحرة صديقة للملك
+Original: we are not having a witch friend for a king
+Generated: we have not got a king of the hero
+Iteration: 15000
+Arabic: جرب هذا جيمس سيعجبك
+Original: try that james you are going to like it
+Generated: try that one are going to have this
+Iteration: 16000
+Arabic: كأس واحدا حسنا كأس واحدا
+Original: just one
+Generated: one one one one one one one one one one one one
+Iteration: 17000
+Arabic: أتّفقُ معكَ تماماً
+Original: i could not agree more
+Generated: i am be be with with with with with with with with with with with with with
+Iteration: 18000
+Arabic: و راي يقدم قضيباً كبيراً
+Original: and ray brings a big dick
+Generated: and the's a big deal
+Iteration: 19000
+Arabic: ونرى كيف يبدو شكله يوم الثلاثاء
+Original: all right great
+Generated: and right i how
+Iteration: 20000
+Arabic: نحن نعلم بأنك لم تفعل ذلك
+Original: we know you did not do it
+Generated: we knew you did not do it
+Iteration: 21000
+Arabic: النساء الجميلات مستعدات لتلبية النداء
+Original: lovely ladies ready for the call
+Generated: the girls ready to the rest
+Iteration: 22000
+Arabic: لا يمكنك الدخول بكل بساطة تسأل عن
+Original: you cannot just go in there and ask about
+Generated: you cannot just keep through with with ask your your
+Iteration: 23000
+Arabic: سيتم تقسيم الألغام بين هؤلاء الناس
+Original: mine will be split among these people
+Generated: you will be in up people people
+Iteration: 24000
+Arabic: توبي هاردويك له صله لكن الدافع
+Original: toby hardwick had access but motive
+Generated: alex is to is to to it
+Iteration: 25000
+Arabic: لقد اخبرتة بأن يبتعد عنا ويموت
+Original: i basically told himto go off and die
+Generated: he told told him to go away and close
+Iteration: 26000
+Arabic: أمي هل هناك شيء خاطئ بمؤخرة سفينتي
+Original: mommy is something wrong with my poop
+Generated: mom is there wrong with the boat
+Iteration: 27000
+Arabic: كانت لديها كتلة بصدرها ماذا كنت تحاول
+Original: she had a lump in her breast what were you trying to accomplish
+Generated: she was a drug she her head what she you doing to do her her
+Iteration: 28000
+Arabic: لا تخبرني أنك تولي إهتمام لتلك النبوءات القديمه
+Original: you cannot tell me you actually pay attention to those old prophecies
+Generated: don't do give me you are have for to the old women
+Iteration: 29000
+Arabic: يوم اخر من تلك الايام لاشي يسير بشكل سليم
+Original: another one of those days nothing seems to be going right
+Generated: last day day these days that is to be late to
+Iteration: 30000
+Arabic: أجل يا تود هل الفيضانات قادمة من هذا الطريق
+Original: yeah todd is the flood coming this way
+Generated: yeah you you the water of up way
+Iteration: 31000
+Arabic: لأنّي أكشف الغشاشين لأعيش لذا كيف تفعلين ذلك
+Original: so how do you do it
+Generated: because i is you feel not to to to to to to to to to to to to to to
+Iteration: 32000
+Arabic: سأضع بعض الملصقات في المبني وشخصاً ما سيأخذه
+Original: i will put up some posters in the building and someone will grab it
+Generated: i am put some some of and the same and someone will take it
+Iteration: 33000
+Arabic: الجميع لقد وضعتها هنا البارحه بعد أن غادرت فكرت باحتماليه عودتك
+Original: everybody i put it up last night after you left figured you might be back
+Generated: all put put it in here night i you left i back were have back
+Iteration: 34000
+Arabic: هذا المكان مليئ بالطاقة من الصدع ربما ستتزود بها بوجودها هنا
+Original: this place is full of rift energy she will probably refuel just by being here
+Generated: this whole is full of power and to will be beated be here here
+Iteration: 35000
+Arabic: كل الأراضي الزراعيّة الآخرى تعطىإلى رئيس كينغ بريدج لبنايّة الكاثدرائية الجديدة
+Original: all other farmlands i give to the priory of kingsbridge for the building of the new cathedral
+Generated: the the new the are am the the new am new the new new new new new american
+Epoch: 02 | Time: 95m 2s
+Train Loss: 3.223 | Train PPL:  25.110 | Train Bleu Score: 0.287
+Val. Loss: 3.538 | Val. PPL:  34.415 | Val. Bleu Score: 0.150
+
+Training the model...
+Training epoch: 03
+Iteration: 0
+Arabic: تحرك
+Original: move it
+Generated: move move move move move move move move move move move move move
+Iteration: 1000
+Arabic: بيعت
+Original: sold
+Generated: i me
+Iteration: 2000
+Arabic: مايك في
+Original: mike in my
+Generated: mike way
+Iteration: 3000
+Arabic: مَن أنتَ
+Original: what art thou
+Generated: who are you
+Iteration: 4000
+Arabic: انها مهمتي الأولى
+Original: it's my first mission
+Generated: it's my first job
+Iteration: 5000
+Arabic: بلاد العجائب
+Original: wonderland
+Generated: the
+Iteration: 6000
+Arabic: افسحوا الطريق
+Original: make way
+Generated: move the
+Iteration: 7000
+Arabic: كنت متواجداً
+Original: i was there
+Generated: i was in
+Iteration: 8000
+Arabic: أنقر هنا
+Original: click there
+Generated: i here
+Iteration: 9000
+Arabic: أين ذهبت كل القوة
+Original: where have all the wicked gone
+Generated: where did you the power
+Iteration: 10000
+Arabic: وبقي في الجيش
+Original: he stayed in the military
+Generated: in is in the army
+Iteration: 11000
+Arabic: هل انتشيتِ
+Original: good
+Generated: you night
+Iteration: 12000
+Arabic: لا شكراً لك لا
+Original: no thank you no
+Generated: no thank you no
+Iteration: 13000
+Arabic: ألديك أيه تعليقات أخرى
+Original: do you have any other comments
+Generated: do you have any other words
+Iteration: 14000
+Arabic: أنا عائدة لرجلي
+Original: i am going back to my man
+Generated: i am back back to my back
+Iteration: 15000
+Arabic: أعتقد أنني أخبرتك بهذا مسبقاً
+Original: i believe i already told you
+Generated: i think i have told you
+Iteration: 16000
+Arabic: أنا أحبك أيضا يا عزيزتي
+Original: i love you too honey
+Generated: i love you too honey
+Iteration: 17000
+Arabic: اه اسمك سيونج نيانج
+Original: eep sungnyang huh that's your name
+Generated: hello is your your name
+Iteration: 18000
+Arabic: مذهل الآن ألا تشعر بشعور أفضل
+Original: wow now do not you feel better
+Generated: wow now it not feel feel better
+Iteration: 19000
+Arabic: أواثقة من أن هذا طبيعي
+Original: you sure this is normal
+Generated: you sure that is normal
+Iteration: 20000
+Arabic: أرجوك أخبرنى أنك ستتركهم أجل
+Original: please tell me you are going to let them go yeah
+Generated: please tell me you would going to leave them
+Iteration: 21000
+Arabic: لا بأس من التدخين هنا يا عزيزتي
+Original: it's okay to smoke in here sweetheart
+Generated: it's right here smoke here here honey
+Iteration: 22000
+Arabic: كنت تعلم من أنا طوال هذا الوقت
+Original: you have known who i am this entire time
+Generated: you know known all i was all time time
+Iteration: 23000
+Arabic: ولكن أولاً لابد ان تغفر لى
+Original: but first i have an amends to make to you
+Generated: but first you have to apology to be me
+Iteration: 24000
+Arabic: ولازلنا لا نعرف لماذا كانوا مع بعض
+Original: we still do not know why they were together
+Generated: we do do not know why they were together
+Iteration: 25000
+Arabic: فجاء أرنب وأكل كل الكرنب
+Original: along came a rabbit and ate up all the cabbages
+Generated: a the up rabbit and all every the the beerages
+Iteration: 26000
+Arabic: افضل الموت على انك تبدء في كرهي
+Original: i will be glad to die before you start to hate me
+Generated: i would rather better you start you you are with read it
+Iteration: 27000
+Arabic: هذا كلام يليق بالطبقة المتوسطة توقفي
+Original: a roof too middle class
+Generated: this good of good thing
+Iteration: 28000
+Arabic: لقد أطلق عليهِ النار من قبل أحد محققيك
+Original: he was shot by one of your detectives
+Generated: he shot shot before one of your right right
+Iteration: 29000
+Arabic: أنا مللت من الوقوف في الوضع الجانبي طوال الوقت
+Original: i am sick of standing in profile all the time
+Generated: i am sick of being by the the time
+Iteration: 30000
+Arabic: قالوا لي أنّ الأمور لم تجرِ بشكلٍ جيِّد معك
+Original: they told me it did not look good for you
+Generated: they said me that did not work good for you
+Iteration: 31000
+Arabic: يريدون إرسالي للوطن للتعلّم أمّي تقول أنى كبرت على البرية
+Original: they want to send me home to school mother says i am growing up wild
+Generated: they want to come my home to teach to to i am a up
+Iteration: 32000
+Arabic: أولياء أمور كما تعلمين يجب أن نستعد ونملأ الفراغ
+Original: you know we have to step up fill in the gaps
+Generated: the know what know to get down and up and water
+Iteration: 33000
+Arabic: أنـا حـتىليس لديّ المـال لأدفـع لمشروبـي
+Original: i don't even have cash to pay for my drink
+Generated: i have have have the i go me the
+Iteration: 34000
+Arabic: حسنا إذا لم يكن لدينا أيّ شئ للخمير الحمر نحن في قذارة عميقة
+Original: well if we do not have anything for the khmer rouge we are in deep shit
+Generated: well if we do not have anything to the bigas we we are in a
+Iteration: 35000
+Arabic: وانا كجامع للتحف مهتم بوجه خاص بهذه الجوهرة ال فيتسوى ذات القيمة العالية جدا
+Original: feits'ui jade in which i as a collector am particularly interested is extremely valuable
+Generated: andit of as and the is am much very of going high in in high
+Epoch: 03 | Time: 95m 17s
+Train Loss: 2.743 | Train PPL:  15.529 | Train Bleu Score: 0.363
+Val. Loss: 3.290 | Val. PPL:  26.843 | Val. Bleu Score: 0.164
+
+Training the model...
+Training epoch: 04
+Iteration: 0
+Arabic: جاهز
+Original: ten
+Generated: ready ready ready ready ready ready ready ready ready ready ready ready ready
+Iteration: 1000
+Arabic: لا أين
+Original: no
+Generated: no where
+Iteration: 2000
+Arabic: أريد مساعدتك
+Original: wanna give me a hand
+Generated: i help me your hand
+Iteration: 3000
+Arabic: سأعتني بهذا
+Original: i will take care of it
+Generated: i will take care of it
+Iteration: 4000
+Arabic: تعرفين ما اقصد
+Original: you know what i mean
+Generated: you know what i mean
+Iteration: 5000
+Arabic: كم عددهم هناك
+Original: how many were there
+Generated: how many are there
+Iteration: 6000
+Arabic: ديلفينو
+Original: hey delfino
+Generated: de d
+Iteration: 7000
+Arabic: سأحصل على النصف
+Original: i get half
+Generated: i will half the
+Iteration: 8000
+Arabic: كان مروعا
+Original: it was awful
+Generated: it was horrible
+Iteration: 9000
+Arabic: يجب أن نجد أونيل
+Original: need to find o'neill
+Generated: we to find o'neill
+Iteration: 10000
+Arabic: إعذرني للحظة حسناً
+Original: give me a secondokay
+Generated: excuse me a second okay
+Iteration: 11000
+Arabic: بأحسن حال أشكركِ
+Original: we are very well thank you
+Generated: i are going good thank you
+Iteration: 12000
+Arabic: لا هذة أشيائة
+Original: i did not that's all his stuff
+Generated: no do not do a stuff
+Iteration: 13000
+Arabic: لا إنه مطلوب للشرطة الآن
+Original: he's wanted
+Generated: no not to to to to to to to to police to
+Iteration: 14000
+Arabic: سام ذلك لأنه أمر معقد
+Original: sam that is because it is complicated
+Generated: sam that is because it is complicated
+Iteration: 15000
+Arabic: أنتظر آسفة بمن أتصلت لتوي
+Original: wait sorry who did i just call
+Generated: i i i just you just call
+Iteration: 16000
+Arabic: لا أبدو مثلما كنتُ حينها
+Original: i do not look like i did then
+Generated: i do not look like i was
+Iteration: 17000
+Arabic: أنا من نقلها هل تفهم
+Original: i moved the body you understand
+Generated: i am on move you understand
+Iteration: 18000
+Arabic: بربكما لا تكونا غبيان
+Original: do not be stupid
+Generated: come not be stupid
+Iteration: 19000
+Arabic: ليس مناسباً لي في الوقت الراهن
+Original: it's just not for me not right now
+Generated: it's not not for me right at now
+Iteration: 20000
+Arabic: عاد جلالته منتصراً
+Original: his majesty has returned victorious
+Generated: his majesty is been
+Iteration: 21000
+Arabic: من هذا الشعور خصوصا بعد ضربة كهذه
+Original: so
+Generated: who that like like it like like like like like that it like like like it that like like it
+Iteration: 22000
+Arabic: كنتِ قلقة أنها ستحصل على أكثر منكِ
+Original: you are worried that she is going to get more than you
+Generated: you were worried she she is getting to get more than you
+Iteration: 23000
+Arabic: انه أمل عصرنا الوحيد لهذا السبب
+Original: the future of the world depends on this person and for this reason
+Generated: it's only is our only is is that all
+Iteration: 24000
+Arabic: يحصل الفائز على هذا الطائرِ الجني
+Original: the winner gets this fairy bird
+Generated: the winner gets to bird bird
+Iteration: 25000
+Arabic: هذا كلام مقعول الى حد كبير
+Original: that's all right as far as it goes
+Generated: this a a a as a is
+Iteration: 26000
+Arabic: هاهي ولكنكِ ستغدين على ما يرام حسناً
+Original: but you are going to be fine okay
+Generated: there you are going to be all okay it
+Iteration: 27000
+Arabic: افعلى عملك لتذهب انت ومالك الى الجحيم
+Original: go on give me a french job you can shove your money up your arse
+Generated: do do do it your job are go the ass the ass and
+Iteration: 28000
+Arabic: ليس هناك دليل حمض نووي يربط تشارلي مع تيتو
+Original: there is no dna evidence that connects charlie to tito
+Generated: there is no dna dna that is charlie to the
+Iteration: 29000
+Arabic: حَسناًلقد كنت أفكر بالتبني قبل عودتي إلى هنا
+Original: well i've been thinking about having a child since before i moved back to tree hill
+Generated: well i been thinking about adoption adoption party before i i come here here my
+Iteration: 30000
+Arabic: إنه في خزانة المدير للفرع الموجود في فايل
+Original: it's in a manager's vault in vail
+Generated: he's in the safe locker for the
+Iteration: 31000
+Arabic: و الآن إن لم أساعدك من المحتمل أن تتغوط في سروالك
+Original: and now if i do not help you you will probably shit your pants
+Generated: and now if i cannot not help you you can probably have in pants
+Iteration: 32000
+Arabic: لكن من المحزن أن بول لم يرى هذا قادم على الأطلاق
+Original: but sadly paul did not see this one coming at all
+Generated: but the paul could not see that coming coming all
+Iteration: 33000
+Arabic: لن أخبر هؤلاء الناس اي شيء عن حياتي الخاصة ليسوا في حاجة إلى معرفته
+Original: but i am not going to tell these people things about my private life they do not need to know
+Generated: i i am not going to tell these people anything about my life life not are not need to know
+Iteration: 34000
+Arabic: هذه الرسالة تحوى ما هو أثمن من الذهب لذا إجعل رسالتى هى الأخيرة
+Original: there is gold in here so just make sure mine's last
+Generated: this is a is the is it make it that the message
+Iteration: 35000
+Arabic: مواطن ملتزم بالقانون ولقد اتصلت ب لأبلغ عن تعدى على ممتلكات الغير بواسطة كاديلاك طائشة
+Original: i am just an honest citizen who called to report a detour violation by a trespassing cadillac
+Generated: a am a a accomplice citizen and called to the to non from of a cadillac
+Epoch: 04 | Time: 94m 32s
+Train Loss: 2.528 | Train PPL:  12.527 | Train Bleu Score: 0.395
+Val. Loss: 3.090 | Val. PPL:  21.981 | Val. Bleu Score: 0.189
+
+Training the model...
+Training epoch: 05
+Iteration: 0
+Arabic: ياشباب
+Original: hey guys i
+Generated: guys guys guys guys guys guys guys guys guys guys guys guys guys
+Iteration: 1000
+Arabic: تي تشان
+Original: taechan
+Generated: chan chan
+Iteration: 2000
+Arabic: ولما هذا
+Original: what for
+Generated: why is
+Iteration: 3000
+Arabic: تيري جون
+Original: june terry june
+Generated: terry
+Iteration: 4000
+Arabic: لا أَستطيعُ حَسَناً
+Original: i cannot all right
+Generated: i cannot all right
+Iteration: 5000
+Arabic: ياللرحمة
+Original: o grace
+Generated: oh
+Iteration: 6000
+Arabic: أحبّ الشامبانيا
+Original: i love champagne
+Generated: i like champagne
+Iteration: 7000
+Arabic: هيّاجيم
+Original: jim come on
+Generated: come on
+Iteration: 8000
+Arabic: نيفيرلاند
+Original: neverland
+Generated: nev
+Iteration: 9000
+Arabic: لا لكن ما هذا
+Original: no but what is that
+Generated: no but what is that
+Iteration: 10000
+Arabic: ليس هذا مضحكاً شون
+Original: not funny sean
+Generated: not that sean
+Iteration: 11000
+Arabic: الرجل ذو الشييء
+Original: he guy with the thing
+Generated: the is with the thing
+Iteration: 12000
+Arabic: تحت الارجوانى
+Original: under your purple
+Generated: under the ears
+Iteration: 13000
+Arabic: عيد ميلاد سعيد يا أمّاه
+Original: happy birthday mom
+Generated: happy birthday mom
+Iteration: 14000
+Arabic: هذا هو الوقت العسير
+Original: this is the bad time
+Generated: this is the time time
+Iteration: 15000
+Arabic: لم أكن أعتقد أنني سأقابلك
+Original: i cannot believe i would meet you here
+Generated: i did think i am meet you
+Iteration: 16000
+Arabic: إذاعة ستعطيني شيء أخرق
+Original: kbbl is going to give me something stupid
+Generated: then youi you giving to give me something
+Iteration: 17000
+Arabic: يعتمد اذا توقف ليزور صديقته
+Original: depends if he stops to see his ho
+Generated: it's if he is liz take his girlfriend
+Iteration: 18000
+Arabic: حسنًا منذ اليوم كان مضيعة للوقت
+Original: well since today was a complete waste
+Generated: well since today was a waste waste of
+Iteration: 19000
+Arabic: إنّه محتمل إنّها كانت مخفيه
+Original: it's possible it was hidden
+Generated: it's possible she was a
+Iteration: 20000
+Arabic: تعرّض جاك لضرب مبرّح
+Original: jack got the crap beat out of him
+Generated: jack got a gun to up the
+Iteration: 21000
+Arabic: لاترهقِ نفسكِ ياهولي ـ
+Original: oh holly do not sweat it
+Generated: don't do do not open it
+Iteration: 22000
+Arabic: كان عليك رؤية حفلة خطوبتنا
+Original: you should have seen our engagement
+Generated: you should have seen the engagement party party party
+Iteration: 23000
+Arabic: ورق الشمع قابل للإحتراق صحيح
+Original: wax paper's combustible right
+Generated: the waxor beening
+Iteration: 24000
+Arabic: سيدة منسون ليس من الضرورى أن
+Original: miss munson don't you do not have to
+Generated: mrs whoson you need need not need to
+Iteration: 25000
+Arabic: مايلي عليكِ أن تخبريها مالذي يجري
+Original: miley you got to tell her what is going on
+Generated: miley you have to tell her what is going on
+Iteration: 26000
+Arabic: يجب أن نذهب طلق ناري في الموقف على طريق
+Original: we got to go shots fired in the garage on th
+Generated: we have to go shot on on the way the
+Iteration: 27000
+Arabic: إنه كتناول إبريق من الشاي التركي
+Original: ever chug a pot of turkish coffee
+Generated: it's have a cup of tea tea
+Iteration: 28000
+Arabic: أعمال تافهة بلا معنى عندما لم تكن لديها هدف أعلى
+Original: deeds in themselves are meaningless unless they are for some higher purpose
+Generated: a are the are not she have on a higher
+Iteration: 29000
+Arabic: أوه والتوقف عن محاولة ليجعلني أشعر بأني أفضل
+Original: oh stop trying to make me feel better
+Generated: oh stop trying to make me feel better
+Iteration: 30000
+Arabic: وستحصلان على عشرة ملايين روبية نظير هذا العمل
+Original: and you will be paid rs lakhs for it
+Generated: you you will have ten for million this
+Iteration: 31000
+Arabic: انا متأكد أنك تستطيع أن تجد شخص آخر ليشاهدشعرظهرك
+Original: i am sure you can find someone else to watch that hairy back
+Generated: i am sure you can find someone else to see your you
+Iteration: 32000
+Arabic: إذاً نحن أمام حائط مسدود لا نحن نبذل قصارى جهدنا
+Original: so we are stuck we are doing the best we can
+Generated: so we are in in are going a wall we can
+Iteration: 33000
+Arabic: هذه لمحة مدتها عاماً و آذار يوم مماته في مستقبله
+Original: that's a year flashforward and march ththe day he dies in his future
+Generated: this a coincidence and a i on day day of is his future
+Iteration: 34000
+Arabic: إنـه صـديـق قـديـم لـوالـدي و جنيفـر ابنتـه
+Original: he's an old friend of daddy's and jennifer is his daughter
+Generated: he's a officer friend and mine and a his daughter
+Iteration: 35000
+Arabic: لكن بول ستاينهارد ونيل توروك يتشوقان لمعرفة النتائج التي جمعها قمر بلانك
+Original: but paul steinhardt and neil turok are also looking forward to the planck satellite results
+Generated: but paul stiles and and they isk is to looking found for to finding moon of of
+Epoch: 05 | Time: 94m 8s
+Train Loss: 2.454 | Train PPL:  11.636 | Train Bleu Score: 0.404
+Val. Loss: 2.919 | Val. PPL:  18.517 | Val. Bleu Score: 0.227
+
+Training the model...
+Training epoch: 06
+Iteration: 0
+Arabic: مرحباً
+Original: oh morning friends sheriff
+Generated: hey hello hello welcome hello welcome welcome welcome welcome
+Iteration: 1000
+Arabic: استدر الآن
+Original: now turn your back
+Generated: now turn around turn
+Iteration: 2000
+Arabic: عاطفته
+Original: his affection
+Generated: his passion
+Iteration: 3000
+Arabic: لا كمبيوتر
+Original: no computer
+Generated: no computer
+Iteration: 4000
+Arabic: ذكر كائن مستيقظ
+Original: a male awakened being
+Generated: a male being
+Iteration: 5000
+Arabic: هل أستطيع رؤيتها
+Original: can i see the diary
+Generated: can i see
+Iteration: 6000
+Arabic: اذن اين هم
+Original: so where are they
+Generated: so where are they
+Iteration: 7000
+Arabic: لا أنه ضعيف
+Original: no it is weak
+Generated: no he is weak
+Iteration: 8000
+Arabic: اختيار جيد كريس
+Original: good choice chris
+Generated: good choice chris
+Iteration: 9000
+Arabic: فكر بإيجابيه
+Original: think positive
+Generated: think of
+Iteration: 10000
+Arabic: هاك الستة بنسات
+Original: here's your sixpence
+Generated: there the six bagsine
+Iteration: 11000
+Arabic: وكان لديها ثلاثة شفاه
+Original: hold it wally
+Generated: she on
+Iteration: 12000
+Arabic: بصفتى صديقك أشكرك
+Original: as your boyfriend i thank you
+Generated: as a friend thank thank you
+Iteration: 13000
+Arabic: يبقى اثنان منا وأنت واحد
+Original: you know he is there it's still two of us and one of you
+Generated: two two it is two is two one of us you you
+Iteration: 14000
+Arabic: هل أنت متأكد نعمشكرا
+Original: you sure yes thank you
+Generated: are sure thank thank you
+Iteration: 15000
+Arabic: ديرك هذا صديقي روس
+Original: dirk this is my good friend ross
+Generated: this this is my friend friend ross
+Iteration: 16000
+Arabic: انها جريمه ضخمه
+Original: this is mass murder
+Generated: it's is a deadly
+Iteration: 17000
+Arabic: أرى فقط أنه يجب إخباركما
+Original: i just think you should know
+Generated: i just see i should tell
+Iteration: 18000
+Arabic: أتعرف يا تويتشي ياللهول
+Original: you know twitchy i oh boy
+Generated: you know tu mean my
+Iteration: 19000
+Arabic: الإجابة الصحيحةُ هي بطّة
+Original: correct answer is a duck
+Generated: the answer is a duck
+Iteration: 20000
+Arabic: لقد تأخرت لأني قد أنفقته
+Original: it's too late i spent it
+Generated: i late late for have the
+Iteration: 21000
+Arabic: لأنهم مليئون بالهراء ماعدا ذلك
+Original: because they are all full of shit why else
+Generated: because they are all so of shit except
+Iteration: 22000
+Arabic: هذا يتوقف على النتيجة هل هذا يفيد
+Original: that depends is it working
+Generated: this depends on it gooding
+Iteration: 23000
+Arabic: أخبرتك أنه لن يكون هنالك شأننا
+Original: eric i told you there would be no more us
+Generated: i i told you there is be no business of
+Iteration: 24000
+Arabic: وهذا ما أسمية ضربا مبرحا
+Original: and that is kicking your ass
+Generated: that's that is what a ass
+Iteration: 25000
+Arabic: رومانسية كانت بصحبته سيدة هل رأيت السيدة
+Original: well romance in your late tenant's life
+Generated: romantic romance was his place mrs lady name
+Iteration: 26000
+Arabic: كل الاعمال قي البندقية اساسها السياح
+Original: the whole business of venice is tourists
+Generated: all business thing of gun is theing
+Iteration: 27000
+Arabic: ولكنى لا اعنى أنه صديق تراه مرتين فى العام
+Original: and i do not mean friend from kindergarten you see twice a year
+Generated: but i do not mean he you him in see him in year
+Iteration: 28000
+Arabic: لقد بعنا اعلاناتنا و لدينا غلاف كبير
+Original: we sold the advertisers on a bigbold cover
+Generated: we sold our commercialsised and our big coverff cover
+Iteration: 29000
+Arabic: حسنٌ حسنٌ يُمكنك خلع هذا الآن لقد إنتهى الهالوين
+Original: ok ok ok
+Generated: well you you you this this this this this this this this this this this this you you now you this
+Iteration: 30000
+Arabic: أنتم يا شباب لم تتقابلوا منذ الكلية أليس كذلك
+Original: you guys have not seen each other since college right
+Generated: you guys have not met college other since college have
+Iteration: 31000
+Arabic: لربما تدخين الحشيش ما تحتاجين للمساعدة في الإقلاع عنه وليس الشرب
+Original: maybe it is the crack smoking you need help with and not the drinking
+Generated: maybe smoking is smoking weed you you need to and not not drinking one
+Iteration: 32000
+Arabic: إن تسكعتِ معي فقط سوف يقبلونكِ في أسرع وقت
+Original: if you hang with me and mine you will be accepted in no time
+Generated: if you just with me you you will will only able a time
+Iteration: 33000
+Arabic: كما لو أننا نذهب إلى متجر الزهور و نرى زهرة أوركيد رائعة
+Original: it's like we go in to a flower shop and we find an amazing orchid
+Generated: as like we are to the the flower shop and see see a amazing flower
+Iteration: 34000
+Arabic: الآن يَنَالُ ليستير الفضل في حل الجريمة ولايدفُع لنا
+Original: now lassiter gets credit for solving the crime and we will not get paid
+Generated: now it is credit for the the crime and not cannot not be to
+Iteration: 35000
+Arabic: سنكون أول جامعة للزنوج في أمريكا واحدة من أوائل الجامعات ف أمريكا نناظر جامعة بيضاء
+Original: and one of the first negro college in america to have a debate in a white college all right
+Generated: we we of america first university university in america we the a white america white college
+Epoch: 06 | Time: 96m 26s
+Train Loss: 2.408 | Train PPL:  11.113 | Train Bleu Score: 0.411
+Val. Loss: 2.911 | Val. PPL:  18.379 | Val. Bleu Score: 0.187
+
+Training the model...
+Training epoch: 07
+Iteration: 0
+Arabic: لا
+Original: oh no no no no
+Generated: no no no no no no no no no no no no no no no no no no no no no no
+Iteration: 1000
+Arabic: أعتقد أن
+Original: i think that
+Generated: i think
+Iteration: 2000
+Arabic: لقد اعتقدت
+Original: i just thought
+Generated: i thought thought
+Iteration: 3000
+Arabic: فلماذا تحبينه
+Original: why do you like him
+Generated: why do you love him
+Iteration: 4000
+Arabic: صاحب السيادة
+Original: your honor
+Generated: the master
+Iteration: 5000
+Arabic: هذا جميل ايضاً
+Original: this is nice too
+Generated: that's is beautiful too
+Iteration: 6000
+Arabic: هذا مكوها
+Original: this is her laundry
+Generated: that's is what
+Iteration: 7000
+Arabic: كلا هذا حقيقي
+Original: no it's true
+Generated: no that true
+Iteration: 8000
+Arabic: بأي طريقة سيدتي
+Original: in what way madam
+Generated: in any way madam
+Iteration: 9000
+Arabic: نحن نبحث عن طبيب
+Original: we are looking for a doctor
+Generated: we are looking for a doctor
+Iteration: 10000
+Arabic: ماذا عنك هل تزوجت
+Original: how about you was there ever a mrs payne
+Generated: what about you have she marriage
+Iteration: 11000
+Arabic: أعلم تكلمت مع هيلي
+Original: yeah i talked to haley
+Generated: i i know to haley
+Iteration: 12000
+Arabic: بصفتى صديقك أشكرك
+Original: as your boyfriend i thank you
+Generated: as your friend thank thank you
+Iteration: 13000
+Arabic: لمَ تبدو متفاجئاً لرؤيتي
+Original: then why do you look surprised to see me
+Generated: why why do you look surprised to see me
+Iteration: 14000
+Arabic: على الرغم انه يتلاشى
+Original: it's fading though
+Generated: although all
+Iteration: 15000
+Arabic: هل هناك أيّ مال آخر
+Original: is there any other money
+Generated: is there any other money
+Iteration: 16000
+Arabic: حسناً ما مدى حظنا
+Original: wellnow how lucky are we talking
+Generated: well how how old we we
+Iteration: 17000
+Arabic: اتريد شرب الشاى ام تريد الذهاب
+Original: you want to drink tea or do you want to just go
+Generated: you want to drink tea or you you want to go go
+Iteration: 18000
+Arabic: كل شيء وباقي السوائل
+Original: there is no way i should be alive right now
+Generated: everything is everything matter the will go and
+Iteration: 19000
+Arabic: إذاً لماذا تأتي إلى الحانه
+Original: then why come to a bar
+Generated: so why are to the bar
+Iteration: 20000
+Arabic: إذن فهذا هو موشو المشهور
+Original: so this is the famous mushu
+Generated: so that is the famous mochi
+Iteration: 21000
+Arabic: و الناس قالوا فعلا محق أيها المسيح
+Original: people said oh that jesus
+Generated: and said right jesus right
+Iteration: 22000
+Arabic: هذا يتوقف على النتيجة هل هذا يفيد
+Original: that depends is it working
+Generated: this depends on that thatinginging
+Iteration: 23000
+Arabic: هل سنكون تابعي إكس الخاصين بك
+Original: are we your xmen
+Generated: shall we going ownian going
+Iteration: 24000
+Arabic: ماتزال غير محصن نحن فقط بشر
+Original: we are only human
+Generated: still are only human
+Iteration: 25000
+Arabic: هذا الرجل ميّت وهو يحاول الحصول على زوجتي
+Original: the guy is dead and he is trying to get with my wife
+Generated: this guy is dead and he is trying to get my my wife
+Iteration: 26000
+Arabic: كنت أتسائل هلا جئتك شخصياً لمناقشة خطتي معك
+Original: i was wondering could i come over personally and talk to you about my plan
+Generated: i was wondering would you come to to to talk to you my plan
+Iteration: 27000
+Arabic: طلبت منه أن يعطيني نوع من أنواع الضمان
+Original: i asked him if he can give me some kind of security
+Generated: i asked him to he gave give me some kind of lost
+Iteration: 28000
+Arabic: من هذا ومالذي يفعله في كل مسرح جريمة نكون فيه
+Original: what who is thisand why is he at all of our crime scenes
+Generated: who is is he and what is he doing every the the crime scene
+Iteration: 29000
+Arabic: نحن فقط نريد ان نقليها نأكلها وننسى
+Original: we just want to fry it eat it forget
+Generated: we just want to make it and it and it
+Iteration: 30000
+Arabic: و لن أُبارح هذا الضريح مرة آخري
+Original: and never from this palace of dim night depart again
+Generated: and i would the time dangerra
+Iteration: 31000
+Arabic: قبـل أن يتصـرفـوا بمثـل هـذه الحـريـة
+Original: where they act like guests
+Generated: before they are before this in in
+Iteration: 32000
+Arabic: أي شخص رَأى فتاة من غاما فاي أسمهـا جانيت
+Original: anyone seen a gamma psi named janet
+Generated: anybody saw a girl fae girl janet
+Iteration: 33000
+Arabic: اذا لم تدرس مستوى ديكينج فقط هل كنت تخرجت العام الماضي
+Original: if you just study instead of dicking around you would have graduated a year ago
+Generated: if you do do the of thej up graduated you graduated last year
+Iteration: 34000
+Arabic: هو جائع ولكنه غير مستعد للدفع يمكنك معرفة ذلك من طرف الكم وحذائته
+Original: he's hungry and not welloff you can tell by his cuffs and shoes
+Generated: he's hungry but he ready to to can know that the own his
+Iteration: 35000
+Arabic: بدون هويةلكنهم تعقبوه الى اقرب برج خليوي و ذلك يقلص المساحة الى نصف قطر ميلا هنا
+Original: call came from a disposable cell
+Generated: without it to the few cell and and and to and to to to to to to to and and and
+Epoch: 07 | Time: 96m 36s
+Train Loss: 2.282 | Train PPL:   9.792 | Train Bleu Score: 0.424
+Val. Loss: 2.766 | Val. PPL:  15.894 | Val. Bleu Score: 0.207
+
+Training the model...
+Training epoch: 08
+Iteration: 0
+Arabic: أوه
+Original: oh fifteen
+Generated: oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+Iteration: 1000
+Arabic: مضبوط
+Original: no he did not
+Generated: right is not
+Iteration: 2000
+Arabic: انت تمام
+Original: you are ok
+Generated: you are all
+Iteration: 3000
+Arabic: رانت
+Original: runt
+Generated: fire
+Iteration: 4000
+Arabic: ان هذا هراء
+Original: that is bull s
+Generated: this is bullshit
+Iteration: 5000
+Arabic: ببعض الخردة بالخارج
+Original: some junk out there
+Generated: some junk out thereersingers
+Iteration: 6000
+Arabic: لا أستطيع بالك
+Original: i cannot bulk
+Generated: i cannot
+Iteration: 7000
+Arabic: أتعرفين مكان شقتها
+Original: where is this apartment
+Generated: you is she
+Iteration: 8000
+Arabic: ماالذي يهمك بذلك
+Original: what do you care
+Generated: what do you care
+Iteration: 9000
+Arabic: لا تذهب يا دكتور
+Original: don't go doctor
+Generated: don't go doctor
+Iteration: 10000
+Arabic: لحظة لحظة لحظة أشخاص
+Original: wait wait wait wait wait
+Generated: wait a a a a aa
+Iteration: 11000
+Arabic: لا لا أصدق ذلك
+Original: i do not believe it
+Generated: no do not believe it
+Iteration: 12000
+Arabic: اتركه وشأنه يا كوت
+Original: yeah leave him alone coot
+Generated: leave him alone
+Iteration: 13000
+Arabic: يا الهي هل أنت بخير
+Original: oh my god are you okay
+Generated: oh my god are you okay
+Iteration: 14000
+Arabic: إذن أخذته إلى الطوارئ أجل
+Original: so you took him to the emergency room
+Generated: so you took him to the emergency
+Iteration: 15000
+Arabic: إلا إن إستخدمت تأمينك
+Original: unless i use yours
+Generated: unless you use yourures
+Iteration: 16000
+Arabic: كارين فيك رئيس الشرطة المؤقت
+Original: karen vick interim police chief
+Generated: karen vic the police chief
+Iteration: 17000
+Arabic: لقد عرضت جائزة وأنت مدين لها
+Original: you offered a prize and now you owe her
+Generated: you have a prize and you you owe it
+Iteration: 18000
+Arabic: أتمنى أنهُ لا بأس بذلك معكِ
+Original: hope that is okay with you
+Generated: i it is okay with you
+Iteration: 19000
+Arabic: حسناً قم بتسليط الضوء
+Original: okay put the lights on
+Generated: all turn the light on the the
+Iteration: 20000
+Arabic: العميلة الخاصة غـوميز
+Original: special agent gomez
+Generated: special agent gomez
+Iteration: 21000
+Arabic: لا لا لا لانستطيع ارجاعها
+Original: no no no we cannot take it back
+Generated: no no no no cannot give it back
+Iteration: 22000
+Arabic: بار سانتا مونيكا سوف يقع فى المحيط
+Original: the santa monica peer it is going to fall into the pacific
+Generated: bar night monica will in will going to be in the ocean
+Iteration: 23000
+Arabic: أنا اعتقد يمكن أن مذاق جيد جدا
+Original: i would not've believed it could taste so good
+Generated: i think think have been that was be so good
+Iteration: 24000
+Arabic: لم أكن ابدا في هذا الجزء من الولاية
+Original: never been to this part of the state
+Generated: i been in this part of the state
+Iteration: 25000
+Arabic: لم أفعل هذا ولكنني آمل لو كنت فعلتها
+Original: i did not do it but i am kind of wishing i had
+Generated: i did not but it but i was hoping of hoping you would it
+Iteration: 26000
+Arabic: أجل و نحن سنشرفُ و نراقب هذا
+Original: yeah we will supervise that
+Generated: yeah we are be andingersers
+Iteration: 27000
+Arabic: يبدو انهم يحركون شيئ ما من المقعد الخلفي
+Original: it looks like they are moving something from the back seat
+Generated: they seems like they are moving something from the back seat
+Iteration: 28000
+Arabic: نعم انه هو من الدرجة الأولى الأحمق هذا أمر مؤكد
+Original: yeah he is a firstclass asshole that is for sure
+Generated: yeah it is the class idiot that's is an sure
+Iteration: 29000
+Arabic: و شعرت أنه ليس بمكان أن أطباطء به
+Original: and i just felt it was not a place to be lingering in
+Generated: and i felt felt it was not where place to tie tiedered
+Iteration: 30000
+Arabic: أحصلي على مساعده بسالفة سكركِ بريك يحتاج لأم
+Original: get help with your drinking brick needs a mother
+Generated: get help with your knife account needs a mother
+Iteration: 31000
+Arabic: أظن أنني سأزرع القرع في العام القادم سيكون ذلك أفضل
+Original: i think i will plant some summer squash next year it will be better
+Generated: i think i am plant the monkeys in next year that will be better
+Iteration: 32000
+Arabic: يجب ان نكون أكثر ابداعاً ونقلب الامور لصالحنا
+Original: we must be more creative and turn this around
+Generated: we must be more creative and we things things for
+Iteration: 33000
+Arabic: يجب أن نتأكّد بأنّنا على بعد خمسة سنتيمترات فقط في الدقيقة
+Original: we ensure that only allowed hammering cmmenit
+Generated: we need that we five fives five in
+Iteration: 34000
+Arabic: إلى الحارس فيرون إننا سنحتاج إلى سته فرق هنا في لنبدأ بملاحقه الحيوانات
+Original: dispatch this is ranger varon we are going to need six teams out here asap
+Generated: to we is a verin we need going to need a teams here here to
+Iteration: 35000
+Arabic: الآنسة في حالة أُصادفُ أيّ سوء حظ رجاءً إعبرْ إلى تلميذِي طائرة لرَكْضه
+Original: miss may in case i encounter any misfortune please pass po chi lum on to my pupil jet to run it
+Generated: miss in any case any am any misfortune please pass myisev for my my plane run
+Epoch: 08 | Time: 98m 2s
+Train Loss: 2.195 | Train PPL:   8.984 | Train Bleu Score: 0.430
+Val. Loss: 2.688 | Val. PPL:  14.701 | Val. Bleu Score: 0.220
+
+Training the model...
+Training epoch: 09
+Iteration: 0
+Arabic: التذاكر
+Original: tickets
+Generated: tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets tickets
+Iteration: 1000
+Arabic: سامار
+Original: samar
+Generated: i
+Iteration: 2000
+Arabic: هذا سخيف
+Original: this is ridiculous
+Generated: that's is ridiculousar
+Iteration: 3000
+Arabic: اصبر
+Original: there was such chaos
+Generated: patience you a a
+Iteration: 4000
+Arabic: أنت إحزر
+Original: hey watch out
+Generated: you you
+Iteration: 5000
+Arabic: لا يغلق النافذة
+Original: don't shut the window
+Generated: don't close the window
+Iteration: 6000
+Arabic: ابتعد عن طريقى
+Original: i am not being violent
+Generated: get am out going a
+Iteration: 7000
+Arabic: ما ذلك الشيءِ
+Original: what is that thing
+Generated: what is that thing
+Iteration: 8000
+Arabic: ذهبت الى سولي
+Original: i went over to sully's
+Generated: i went to to sully
+Iteration: 9000
+Arabic: أين ستكون حلوانا
+Original: where is our candy going to be
+Generated: where would our solution be
+Iteration: 10000
+Arabic: رَأيتُ شَنْقها
+Original: i saw her hanging
+Generated: i saw a hanging
+Iteration: 11000
+Arabic: لم يسمعنــي
+Original: he's not a listener
+Generated: he not listening littleing in
+Iteration: 12000
+Arabic: هل تود الإستسلام
+Original: you want to give up
+Generated: you want to give up
+Iteration: 13000
+Arabic: وفوق هذا انها تنزف
+Original: plus she is bleeding
+Generated: and it is bleedinginging
+Iteration: 14000
+Arabic: أننا يمكن التغلب عليه مرحبا
+Original: an apology
+Generated: we end in in
+Iteration: 15000
+Arabic: ـ هل يوجد أحد هنا
+Original: anybody else no you sure
+Generated: is here here are
+Iteration: 16000
+Arabic: اسف تغيبت عن العشاء
+Original: sorry i missed dinner
+Generated: sorry i missed dinner
+Iteration: 17000
+Arabic: أبذلي أكثر من ذلك
+Original: break them both
+Generated: more it outsers
+Iteration: 18000
+Arabic: هو مَا إختبرَ إف
+Original: it's never been tested
+Generated: he not tested tested
+Iteration: 19000
+Arabic: انصت إلي جيداً بالطبع أنت تحبها
+Original: listen to me carefully of course you love her
+Generated: listen to me carefully of course you love her
+Iteration: 20000
+Arabic: كيف لم نرى ذلك من قبل
+Original: how come i did not see before
+Generated: how could we never not see it before before
+Iteration: 21000
+Arabic: إننى مجرد شرطى محلى يا دينيس
+Original: i am just a local paperpusher dennis
+Generated: i am just a cop copman dennis dennis
+Iteration: 22000
+Arabic: ثمّ مَشيتُ حول الشاحنةِ
+Original: then i walked around the truck
+Generated: then i walked around the truck
+Iteration: 23000
+Arabic: ماذا يفعل أبناء أخي وأختي هنا
+Original: what were my nieces and nephews doing here
+Generated: what do my nephew and sister doing here to
+Iteration: 24000
+Arabic: بالطريقة التي تتحدث بها يوجد اكثر من ذلك
+Original: in a manner of speaking but it is much more than that
+Generated: the the way of speaking there there is more more than that
+Iteration: 25000
+Arabic: حسناً سنأخذ كأسان من التونيك
+Original: okay we will take a couple tonics
+Generated: well we will take two couple of of one one
+Iteration: 26000
+Arabic: ومن يهتمّ إذا سخر الأطباء الآخرين منكما
+Original: who cares if the other doctors make fun of you
+Generated: who cares if the other doctors take it you
+Iteration: 27000
+Arabic: لا تقلل من قدرهم انهم قساة
+Original: don't underesti am going tote them
+Generated: don't underesti am going tote them theys theyersers themers
+Iteration: 28000
+Arabic: الكاربيراتير بتاعي اخرج يا مجنون
+Original: hey my carburetor get the fuck out kook
+Generated: the the cartor get out fuck outy
+Iteration: 29000
+Arabic: لقد أكلوا كل شيء الآذان الأصابع المؤخرات
+Original: they ate everything ears toes assholes
+Generated: they ate all with boots ass
+Iteration: 30000
+Arabic: مسمار ضخم يثبت قطعة من الورق ورقة كتاب مكتوب عليها
+Original: an iron bolt holding down a piece of paper a book page with written on it
+Generated: a old spike proves a a piece of paper paper book on says it it
+Iteration: 31000
+Arabic: لم يكن راندي من فعل هذا إنـه يعلم أنـه لا يستطيع اللعب
+Original: it was not randy
+Generated: randy was not randy who did he he he he he he he he he he he he he he he he
+Iteration: 32000
+Arabic: فجأة يتحوّل كل شيء هراءوتفاهات في كلّ مرة
+Original: suddenly everything's a big pissing match like every time
+Generated: suddenly it turned bunch deal all every every time
+Iteration: 33000
+Arabic: أي شخص من شأنّه أن يصاب في رأسه مع تلك التنشئة
+Original: anyone would get sick in the head with that upbringing
+Generated: anyone who have his with his head with that
+Iteration: 34000
+Arabic: لا أنه لا ينبغي أن تملأ ذلك حياتنا أنه عندما ذهبوا ليس لدينا شيء اليسار للعيش
+Original: no that it should not so fill our lives that when they are gone we have nothing left to live for
+Generated: no it is should not be much up lives when when they went gone we have nothing left to live
+Iteration: 35000
+Arabic: الشوارع مغمورة بالمخدّرات التي يمكن أن تأخذها لعدم الارتياح والألم ونحن أخذناهن جميعهن
+Original: 'the streets are awash with drugs 'you can have for unhappiness and pain
+Generated: the streets are floodedl with the that could take to no and all and and and and and and and and and and and
+Epoch: 09 | Time: 99m 29s
+Train Loss: 2.143 | Train PPL:   8.528 | Train Bleu Score: 0.431
+Val. Loss: 2.605 | Val. PPL:  13.528 | Val. Bleu Score: 0.248
+
+Training the model...
+Training epoch: 10
+Iteration: 0
+Arabic: حادة
+Original: sharp
+Generated: sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp sharp
+Iteration: 1000
+Arabic: إنه مورجان
+Original: it's morgan
+Generated: it's morgan
+Iteration: 2000
+Arabic: انظرو
+Original: look oh look
+Generated: look ata
+Iteration: 3000
+Arabic: وذلك يزعجني
+Original: it just irritates me
+Generated: and bothers bothersates meser
+Iteration: 4000
+Arabic: لا أنت محقّ
+Original: no you are right
+Generated: no you are right
+Iteration: 5000
+Arabic: نعم نعم نعم
+Original: peanuts yeah yeah yeah
+Generated: yeah yeah yeah
+Iteration: 6000
+Arabic: بعتُ سيارتي
+Original: i sold my car
+Generated: i sold my car
+Iteration: 7000
+Arabic: ارجوك نم قليلا
+Original: since he is now free treat him accordingly
+Generated: please you is not me a
+Iteration: 8000
+Arabic: هذا مكتبى
+Original: my office
+Generated: this office
+Iteration: 9000
+Arabic: لهذا السبب فأنا مشوش
+Original: that's why i am confused
+Generated: that's why i am confused
+Iteration: 10000
+Arabic: إن فاتتنا الطائرة
+Original: if we miss that plane
+Generated: if we miss the plane
+Iteration: 11000
+Arabic: هَلْ تَرى القمةَ
+Original: do you see the top
+Generated: do you see the top
+Iteration: 12000
+Arabic: انا أعلم بألمك
+Original: i know your pain
+Generated: i know your pain
+Iteration: 13000
+Arabic: هل ستأكل وحدك هذه الحقيبة
+Original: you are going to eat that whole bag
+Generated: you going going to eat alone yourself bag bag
+Iteration: 14000
+Arabic: ضاجعني هنا في الحال
+Original: do me right here
+Generated: fuck me right hereman
+Iteration: 15000
+Arabic: ليس ذلك النوع من السيطرة
+Original: not that kind of control
+Generated: not that kind of thing
+Iteration: 16000
+Arabic: لا يهمنا أمرها الآن
+Original: no concern of ours now
+Generated: it matter of her now
+Iteration: 17000
+Arabic: حفلة عطيمةأليس كذلك
+Original: huh ha ha
+Generated: a ha ha party party party party party party party party party party party party party party party party party
+Iteration: 18000
+Arabic: أيكفيك شراب كونياك
+Original: it's cognac what do you do for a living
+Generated: ike your is you think drink
+Iteration: 19000
+Arabic: أنا لن أدفع ثمن جرائم ويليام
+Original: i will not pay for william's crimes
+Generated: i am not pay for the crimes
+Iteration: 20000
+Arabic: تاكدوا بانه لايوجد احد هناك
+Original: someone watch the railing make sure they do not get up that way
+Generated: tak is there door sure there are not have there there way
+Iteration: 21000
+Arabic: ساساعدها لتكوم بشعة
+Original: bridetobe shit not if i can help it
+Generated: ietobe is a you can help her
+Iteration: 22000
+Arabic: لقد سمعت أنها ستكون أسابيع سته أسابيع
+Original: i have heard six weeks six weeks
+Generated: i heard heard it weeks six weeks
+Iteration: 23000
+Arabic: يا رجل لقد بعنا جهازًا
+Original: man we sold
+Generated: man we have it device a
+Iteration: 24000
+Arabic: نعم لايمكنه تناولهم قبل ان يأكل
+Original: he cannot take them before he eats it upsets his stomach
+Generated: yeah cannot eat them before he eats them heart
+Iteration: 25000
+Arabic: عليك أن تبقى مُسترخِياً
+Original: you must stay relaxed
+Generated: you have stay relaxedner
+Iteration: 26000
+Arabic: ربّما قد يكون لهذه المقابلة نفـع متبادل
+Original: perhaps this meeting can be mutually beneficial
+Generated: maybe this interview is be done exclusiveingableally
+Iteration: 27000
+Arabic: إذا كنت تعتقدين هذا فعلاً هلا قلتيه لـمايكل
+Original: if you really think that will you tell that to michael
+Generated: if you really think about would you tell michael to michael
+Iteration: 28000
+Arabic: من الذين تعتقد انة أرسل لك هؤلاء الرجال هذا الصباح
+Original: who do you think sent those guys this morning
+Generated: who do you think he these guys this morning
+Iteration: 29000
+Arabic: انه يعجبني لكنني لست متأكدة اذا كان يعجبني حقاً بعد
+Original: have you spoken to molly
+Generated: i you seen to me i in in in in in in in in in in in in in in
+Iteration: 30000
+Arabic: وانا احافظ على توازن القارب من الجهه الاخرى
+Original: andi willkeepwaiving at you from the shore
+Generated: and keep keep theiting the the from the other
+Iteration: 31000
+Arabic: اشلي اريديك ان تنحني هنا مثل لعبة قفزة الضفدع
+Original: ashleei need you to crunch down here like a game of leap frogokay
+Generated: ashley i i want you to bow here here like a frog of frog
+Iteration: 32000
+Arabic: أَو اتَخبّلََضْمنهم صديقي توماس
+Original: or gone mad including my friend thomas
+Generated: or have put at my friend thomas
+Iteration: 33000
+Arabic: اسحب المستقبلات الحمراء و الخضراء غير الزرقاء بالحمراء و الخضراء بالزرقاء
+Original: ok pull out the red and green receptors reroute blue into red and green into blue
+Generated: pull take the the red and the greenors and blue and blue and blue blue
+Iteration: 34000
+Arabic: فقط أعطه فرصه ليهدئ نفسه هلا أعطيته فرصه ليهدئ من تلقاء نفسه
+Original: just give him a chance to calm himself could you just give him a chance to calm himself
+Generated: just give him a chance to calm himself will you give give him a chance give him him
+Iteration: 35000
+Arabic: لا حاجة بي لكل هذا الكلام المُنمق فأظننا نعلم جميعاً علام تنطوي هذه الترقية
+Original: i do not need the pitch i think we all know what this ulti am going tote upgrade entails
+Generated: i do not need any word to think we all know what a promotion am going tote iso
+Epoch: 10 | Time: 99m 35s
+Train Loss: 2.135 | Train PPL:   8.457 | Train Bleu Score: 0.423
+Val. Loss: 2.309 | Val. PPL:  10.064 | Val. Bleu Score: 0.366
+
+Evaluating the model quality on the test data...
+Test Loss: 2.308 | Test PPL:  10.059 | Test Bleu Score: 0.366
+
