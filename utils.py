@@ -8,9 +8,8 @@ import matplotlib.pyplot as plt
 from IPython.display import clear_output
 from nltk.translate.bleu_score import corpus_bleu, SmoothingFunction
 
-from notify import TG
+from bots.notify import TG
 from config import *
-from models.gate import HardConcreteGate
 
 tg = TG(TG_NOTIFY_TOKEN, TG_NOTIFY_CHAT_ID)
 

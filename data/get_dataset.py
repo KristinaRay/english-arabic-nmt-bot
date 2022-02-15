@@ -7,7 +7,7 @@ from argparse import ArgumentParser
 from zipfile import ZipFile
 
 from config import *
-from preprocessing import *
+from data.preprocessing import *
 from utils import *
 
 DATA_FILE_PATH = f'{DATA_PATH}/data.zip'
