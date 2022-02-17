@@ -1,0 +1,682 @@
+Number of tokens in source language: 24000
+Number of tokens in target language: 32000
+Number of training examples: 4500000
+Number of validation examples: 250000
+Number of testing examples: 250000
+Number of training batches: 35157
+Number of validation batches: 1954
+Number of testing batches: 1954
+
+Training the model with the pruning...
+The model has 28,462,672 trainable parameters
+
+Training epoch: 01
+Iteration: 0
+English: see the snake
+Original: أرأيت الثعبان
+Generated: لقدِ الذيناتهمهةةتهاةةةّتةةة
+Batch bleu: 0.0022499114655623762
+Penalty: 0.30833899974823
+Iteration: 1000
+English: you stupid stupid idiot eddie you fucking
+Original: يالكمن شخصغبي للغايـةياايدي أيهـا
+Generated: أيها من غبي غبي الغبيل يا يا إيديـةكي الوغد
+Batch bleu: 0.17784460795827853
+Penalty: 0.3059708774089813
+Iteration: 2000
+English: because it is jennifer's birthday
+Original: لأنه عيد ميلاد جينيفر
+Generated: لأن عيد ميلاد جينر
+Batch bleu: 0.14040207453003883
+Penalty: 0.3034541606903076
+Iteration: 3000
+English: i'ii flush
+Original: أنا سَأَتدفّقُ
+Generated: سوف سأَرْفعَُُِّ
+Batch bleu: 0.17064499937805788
+Penalty: 0.3010460138320923
+Iteration: 4000
+English: arf arf what was that
+Original: ماذا كان ذلك
+Generated: أر كان ذلك
+Batch bleu: 0.14893885226449097
+Penalty: 0.2986658811569214
+Iteration: 5000
+English: of course i know she will
+Original: طبعاً أعلم أنها ستفعل ذلك
+Generated: بالطبع أعلم أنها ستفعل ذلكني
+Batch bleu: 0.19795949306647553
+Penalty: 0.29633501172065735
+Iteration: 6000
+English: it was as ifhe had lost a family member
+Original: كما لو كان أحد أفراد اسرته هو من رحل
+Generated: كان لو فقد قد أفراد عائلةعي عضو عضته
+Batch bleu: 0.1952392875420772
+Penalty: 0.2940894365310669
+Iteration: 7000
+English: i should have never listened to albert and what is with you
+Original: ــ لم يكن علي الإصغاء إلى ألبرت و ــ ما خطبِك
+Generated: كان كان يكن يجب أنغاء إلى ألبرت وما ماذا ماذا معككِ
+Batch bleu: 0.2033562524853144
+Penalty: 0.2918030023574829
+Iteration: 8000
+English: guess who just showed up
+Original: خمّن من الذي ظهر
+Generated: خمنّن من ظهر أر للتو
+Batch bleu: 0.2063924697914525
+Penalty: 0.2895679473876953
+Iteration: 9000
+English: though brigham gave me a house i rarely saw him as he continued to marry again and again
+Original: على الرغم من ان بريجهام منحني منزلاً انا بالكاد كنت اراه فيما هو استمر في الزواج مرة تلو مرة
+Generated: مع الرغم من أن بريغانهام قدحني منزل لقد شاهدته رأيته رأيته عندما بعد ما في الزواج مرة اخرى الآخر أخرى
+Batch bleu: 0.18144694933099284
+Penalty: 0.2874647378921509
+Iteration: 10000
+English: i am sorry son
+Original: أنا آسف يا بنيّ
+Generated: آسف آسف يا بني
+Batch bleu: 0.1770172703178815
+Penalty: 0.28526484966278076
+Iteration: 11000
+English: madam please fasten your seat belt
+Original: سيدتي رجاءً اربط حزام مقعدك
+Generated: سيدتي أرجوك إربط حزامك
+Batch bleu: 0.17359432360986884
+Penalty: 0.28332921862602234
+Iteration: 12000
+English: because you know because things are going well
+Original: لأنّ الأمور تسير بشكل جيّد
+Generated: لأنكِ تسير بشكل جيد
+Batch bleu: 0.18127420569248281
+Penalty: 0.28149864077568054
+Iteration: 13000
+English: another little birdie come home to roost
+Original: لقد عادت العصفورة الصغيرة لتنقل الخبر
+Generated: عصف عاد دراجةجلة الصغيرة إلىظيم إلىوها
+Batch bleu: 0.20289687767866132
+Penalty: 0.279805451631546
+Iteration: 14000
+English: also i am not very well and
+Original: بالاضافة الى اني لست على ما يرام
+Generated: وأنا الى ذلك لست بخير ما يرام ونا
+Batch bleu: 0.21022812327966872
+Penalty: 0.278037428855896
+Iteration: 15000
+English: i am not asking you to meddle
+Original: أنا لا أَطْلبُ مِنْك التَدَخُّل أنا فقط
+Generated: أنا لا أطلبطْلبُ منككطفلعُّب
+Batch bleu: 0.17461367092118416
+Penalty: 0.27642402052879333
+Iteration: 16000
+English: yes that is right
+Original: بالعام الماضي أجل هذا صحيح
+Generated: نعمخيرله هذا صحيح
+Batch bleu: 0.17858333769652227
+Penalty: 0.2748929262161255
+Iteration: 17000
+English: sooner or later more of them are bound to meet and marry
+Original: جاي اسمان شائعان جدّاً فعاجلاً أو آجلاً لا بدّ أن يلتقي آخران و يتزوّجا
+Generated: عاجلا أواعشرةوا أو آجلاً منهم بد أن يُان منهم و تتزوجّ
+Batch bleu: 0.21709540579031864
+Penalty: 0.2733175754547119
+Iteration: 18000
+English: that's right run run like the cowardly prey that you are
+Original: هذا صحيح إهربوا إهربوا كالجبناء سوف أنال منكم
+Generated: هذا صحيح أهربهرب مثل مثلهربوا مثلفار يكون منوا
+Batch bleu: 0.18525571416919143
+Penalty: 0.27186325192451477
+Iteration: 19000
+English: we are on our way to getting our power back
+Original: نحنُ في طريقنا لإستعادة قوانا
+Generated: نحن في طريقنا إلىعادة طاوتناناًناانية
+Batch bleu: 0.21938946626574865
+Penalty: 0.27057069540023804
+Iteration: 20000
+English: i wondered if you could give me a lift
+Original: أتساءل إن ما كنت ستقلّني
+Generated: تس إن كنت كان تستطيععطي لي
+Batch bleu: 0.19601650265432938
+Penalty: 0.26914602518081665
+Iteration: 21000
+English: what the heck was that
+Original: ماذا كان ذلك
+Generated: ما كان ذلك بحق
+Batch bleu: 0.18425413162868118
+Penalty: 0.2679421603679657
+Iteration: 22000
+English: all right now what happened how did it start
+Original: حسناً ماذا حدث
+Generated: حسناً ماذا حدث كيفها كيف
+Batch bleu: 0.1815335632980803
+Penalty: 0.26672059297561646
+Iteration: 23000
+English: against all americans
+Original: نحو جميع الأمريكان
+Generated: ضد كل الأمريكيين
+Batch bleu: 0.23090224890266828
+Penalty: 0.2655048966407776
+Iteration: 24000
+English: you are a bum lincoln tyler how can you
+Original: انت حقير يا لنكولن تايلور
+Generated: أنت مت لينكولن جاكولنولن وأبوس؛ كيفهم
+Batch bleu: 0.22232962139785073
+Penalty: 0.26426687836647034
+Iteration: 25000
+English: most of them are abandoned
+Original: معظمه مهجورا
+Generated: معظم ذلكمهماجورةنه
+Batch bleu: 0.1951468449876821
+Penalty: 0.2631191611289978
+Iteration: 26000
+English: look it is getting late
+Original: نظرة هو يُصبحُ متأخّر
+Generated: انظرقد يُ متأخراًخّرَ
+Batch bleu: 0.18212286352511087
+Penalty: 0.26217707991600037
+Iteration: 27000
+English: just tell me the truth or leave right now
+Original: قولي لي الحقيقة فقط أو ارحلي الآن
+Generated: فقط لي الحقيقة فقط أو أرحللي الآن
+Batch bleu: 0.22064742397061385
+Penalty: 0.26107552647590637
+Iteration: 28000
+English: uh cornea transplant surgery
+Original: عملية زرع قرنية
+Generated: جراحة زرع الذرةوي
+Batch bleu: 0.22517379656041905
+Penalty: 0.26018133759498596
+Iteration: 29000
+English: does he have any hobbies
+Original: هل لديه أي هوايات
+Generated: هل لديه هوا هوايات
+Batch bleu: 0.231210784045545
+Penalty: 0.2591625154018402
+Iteration: 30000
+English: if the world knew the truth
+Original: إذا علم العالم بالحقيقة
+Generated: إذا كان العالم بالحقيقة
+Batch bleu: 0.17995053497511426
+Penalty: 0.2583160996437073
+Iteration: 31000
+English: long before my dislike was decided when i heard mr wickham's story of your dealings with him
+Original: بل منذ زمن تقررت مشاعرى حينما سمعت بتصرفك مع السيد ويكهام
+Generated: قبل قبل أن بعيدّر عندما السيد عندما سمعت قصةعاملاتكة ويكهامته
+Batch bleu: 0.20053675724817374
+Penalty: 0.2574460208415985
+Iteration: 32000
+English: everyone
+Original: الجميع
+Generated: الجميع
+Batch bleu: 0.2446244054973761
+Penalty: 0.2566353976726532
+Iteration: 33000
+English: highlight
+Original: أتقصدين توضيح الكلمات الهامة بـ لون القلم
+Generated: شيءينئلة
+Batch bleu: 0.21807025781464354
+Penalty: 0.25586703419685364
+Iteration: 34000
+English: she said to tell you the roses came up early this year
+Original: أخبرتنى أن أقول لك أن الورود نمت مبكرا هذه السنه
+Generated: قالت أن أقول لك أن الزهور قد مبكراً هذه السنة
+Batch bleu: 0.18866058896342316
+Penalty: 0.25514453649520874
+Iteration: 35000
+English: you shot my speckled jim
+Original: قتلت حمامتي جيم المرقط
+Generated: لقدنيى ياقط
+Batch bleu: 0.2235560058429222
+Penalty: 0.2544429302215576
+Epoch: 01 | Time: 224m 27s
+Train Loss: 3.787 | Train PPL:  44.124 | Train Bleu Score: 0.187
+Val. Loss: 3.050 | Val. PPL:  21.125 | Val. Bleu Score: 0.228
+
+Training the model with the pruning...
+The model has 28,462,672 trainable parameters
+Training epoch: 02
+Iteration: 0
+English: walter's a crazy man
+Original: والتر رجل مجنون
+Generated: رجل مجنون مجنون
+Batch bleu: 0.18153370793733828
+Penalty: 0.2543383538722992
+Iteration: 1000
+English: he was one of my most valued military advisors
+Original: إنه من أفضل مستشاريَ العسكريين
+Generated: كان كان مست مستشا في الجيشريين العسكوا
+Batch bleu: 0.2057737325710244
+Penalty: 0.253295361995697
+Iteration: 2000
+English: you do not know her you do not know any of them
+Original: لا تعرفينها ولا تعرفين أياَ منهم
+Generated: لا تعرفها لا تعرفين أي منهم منهم
+Batch bleu: 0.1963134491112966
+Penalty: 0.2523103952407837
+Iteration: 3000
+English: now before it is too late
+Original: الآن قبل فوات الأوان
+Generated: الآن قبل فوات الأوان
+Batch bleu: 0.2103817795464485
+Penalty: 0.2514658570289612
+Iteration: 4000
+English: i do not mind that do not like that
+Original: أنا لا أمانع ذلك لا أحب ذلك
+Generated: لا لا أمانع ذلك لا يعجب هذا
+Batch bleu: 0.20956160313326458
+Penalty: 0.2505600154399872
+Iteration: 5000
+English: it's quite good was not it
+Original: أليس كذلك
+Generated: إنه كذلك
+Batch bleu: 0.23387016236340566
+Penalty: 0.2496182918548584
+Iteration: 6000
+English: i am touched
+Original: لقد تأثّرت
+Generated: أنا لمستثرتبت
+Batch bleu: 0.20563817712790153
+Penalty: 0.2488744854927063
+Iteration: 7000
+English: where is hector
+Original: اين هكتور
+Generated: أين هيكتوركتور
+Batch bleu: 0.2089314471959615
+Penalty: 0.24796541035175323
+Iteration: 8000
+English: nazi bastard
+Original: النازيون الحقراء
+Generated: ابنزي النا
+Batch bleu: 0.23416368638787335
+Penalty: 0.24711132049560547
+Iteration: 9000
+English: see these wee beauties
+Original: اترى هذه الصدفات
+Generated: أترى هذه الححبةات
+Batch bleu: 0.21540644132390438
+Penalty: 0.2462727427482605
+Iteration: 10000
+English: nicholas hume
+Original: نيكولاس هيوم
+Generated: نيكولاس هومي
+Batch bleu: 0.23073622701136776
+Penalty: 0.24540431797504425
+Iteration: 11000
+English: no matter what
+Original: مهما يحصل
+Generated: مهما يكن
+Batch bleu: 0.2079791314083877
+Penalty: 0.24471643567085266
+Iteration: 12000
+English: but it is almost gone again
+Original: اختفى الوزن الزائد
+Generated: لكن من مرةرق
+Batch bleu: 0.17950359190237497
+Penalty: 0.24382410943508148
+Iteration: 13000
+English: so i am guessing you running around a twister
+Original: لذلك أنا على التخمين لك يركض الاعصار
+Generated: لذا أعتقد أخمن وشك أن أن فيصاروني
+Batch bleu: 0.20733062178914172
+Penalty: 0.2430715262889862
+Iteration: 14000
+English: by letting some out he will improve
+Original: بتأجير البعض خارجه سيتحسن
+Generated: أندية بعض سيجه سيتحس
+Batch bleu: 0.19364783670776453
+Penalty: 0.24236077070236206
+Iteration: 15000
+English: hey i have a really good idea
+Original: انت لدي فكرة جيده
+Generated: لدي لدي فكرة جيدة
+Batch bleu: 0.20453787584280655
+Penalty: 0.24166239798069
+Iteration: 16000
+English: who does
+Original: ومن يعلم
+Generated: من يفعل
+Batch bleu: 0.20222618528773917
+Penalty: 0.24082496762275696
+Iteration: 17000
+English: tell them i want to converse with mr raymond larocque
+Original: و ابحث لي عن مكان أستطيع أن أتحدث فيه مع السيد ريمون لاروك
+Generated: أخبريهم أخبرهم عن عنهم السيد أن أجعل مع مع السيد لاموند لاوك
+Batch bleu: 0.2390439778568513
+Penalty: 0.24010759592056274
+Iteration: 18000
+English: look lux
+Original: ربما عليك أن
+Generated: انظري لا أن تنظر
+Batch bleu: 0.22070527063638584
+Penalty: 0.23944704234600067
+Iteration: 19000
+English: fish
+Original: السمك
+Generated: سمك
+Batch bleu: 0.24426666760975976
+Penalty: 0.2387329787015915
+Iteration: 20000
+English: blocks
+Original: أربعون بناية
+Generated: على
+Batch bleu: 0.21926039180867143
+Penalty: 0.23800808191299438
+Iteration: 21000
+English: how about a little kiss on my fist
+Original: ماذا عن قبلة صغيرة على قبضة بلدي
+Generated: ماذا عن قبلة صغيرة على قبض يدي
+Batch bleu: 0.22586406981182594
+Penalty: 0.2373170256614685
+Iteration: 22000
+English: he's filed a suit against pph and dr robert chase for performing surgery without consent
+Original: لقد رفع دعوى ضد قسم الطوارىء ود تشايس لإجرائهم جراحة دون موافقته
+Generated: لقد قدم دعوى ضد الدكتور حمايةرفين معكتور للجداءراءاته بدون بدون موافققته
+Batch bleu: 0.20021336608376225
+Penalty: 0.23660288751125336
+Iteration: 23000
+English: accessing database
+Original: يتم الدخول لقاعدة البيانات
+Generated: قاعدة الدخول إلىعدة
+Batch bleu: 0.22660905576955784
+Penalty: 0.23589617013931274
+Iteration: 24000
+English: tell him you cannot love him he's fictional you want to waste your time with a fictional character
+Original: لا تستطيعين إنه خيالي تريدي أن تهدري وقتكِ مع شخص خيالي
+Generated: أخبريه يمكنك حبه من هل تضي تضيري وقتككِ مع شخصية خي
+Batch bleu: 0.23323679965578475
+Penalty: 0.23537683486938477
+Iteration: 25000
+English: i know what it is
+Original: أعلم ما هي
+Generated: أعرف ما هو
+Batch bleu: 0.23834902443897554
+Penalty: 0.23470745980739594
+Iteration: 26000
+English: taken care of perper
+Original: تم الاهتمام به يا بير
+Generated: أعتنيالك به بير
+Batch bleu: 0.24815803927236607
+Penalty: 0.23414775729179382
+Iteration: 27000
+English: i am your boss
+Original: أنا ريئستك
+Generated: أنا رئيسكئيسستك
+Batch bleu: 0.24280642450686932
+Penalty: 0.23359376192092896
+Iteration: 28000
+English: to virgil
+Original: إلى فيرجل
+Generated: إلى فيرجل
+Batch bleu: 0.24324151744616593
+Penalty: 0.2331455498933792
+Iteration: 29000
+English: oh brother
+Original: يا أخي
+Generated: أوه أخي
+Batch bleu: 0.2590749665557979
+Penalty: 0.23265187442302704
+Iteration: 30000
+English: went for the money
+Original: من أجل المال
+Generated: لقد أجل المال
+Batch bleu: 0.22797228877028422
+Penalty: 0.23217368125915527
+Iteration: 31000
+English: rudolph valentino
+Original: رودولف فلانتينو
+Generated: رودلف فالانتينو
+Batch bleu: 0.20474993410081652
+Penalty: 0.2316054254770279
+Iteration: 32000
+English: then you agree that it is important for people to know the truth
+Original: إذاَ تتفقين بأنه من المهم للناس أن يعرف الحقائق
+Generated: إذن وافقت مع أنه من المهم أن معرفة يعرفوا
+Batch bleu: 0.25576012243584834
+Penalty: 0.23125240206718445
+Iteration: 33000
+English: say think you could introduce me to your friend granger
+Original: هل تستطيع أن تقدمني إلى صديقتكَ جرينجر
+Generated: قل تعتقد أن تقدم لي إلى صديقككَ ياجر
+Batch bleu: 0.23795423834610016
+Penalty: 0.23079520463943481
+Iteration: 34000
+English: but thinking of you screaming
+Original: ولكن عندما أتخيلكِ تصرخين
+Generated: لكن التفكير كنتعجبرين تصرخين
+Batch bleu: 0.24454697856133115
+Penalty: 0.23029989004135132
+Iteration: 35000
+English: i beg your pardon
+Original: ماذا تقصد
+Generated: أست
+Batch bleu: 0.2134606120525406
+Penalty: 0.22986258566379547
+Epoch: 02 | Time: 224m 1s
+Train Loss: 3.344 | Train PPL:  28.332 | Train Bleu Score: 0.220
+Val. Loss: 2.900 | Val. PPL:  18.172 | Val. Bleu Score: 0.243
+
+Training the model with hard pruning...
+The model has 28,462,672 trainable parameters
+Training epoch: 03
+Iteration: 0
+English: just stay away from me
+Original: أو أني سأقوم بإخبار بولا
+Generated: فقط فقط لا بإها
+Batch bleu: 0.21338429899992933
+Penalty: 0.2298019677400589
+Iteration: 1000
+English: over here
+Original: منهنا
+Generated: هنانا
+Batch bleu: 0.21320468934804598
+Penalty: 0.22969354689121246
+Iteration: 2000
+English: hold on
+Original: انتظرى
+Generated: انتظرى
+Batch bleu: 0.2078637180850978
+Penalty: 0.22951221466064453
+Iteration: 3000
+English: the cab will be here in about minutes
+Original: سيصل سائق الأجرة إلى هنا بعد حوالي دقائق
+Generated: سيارة التاك سيارة خلال هنا في دقيقة دقيقة
+Batch bleu: 0.19534961603197004
+Penalty: 0.22933074831962585
+Iteration: 4000
+English: mr white
+Original: ـ سيد وايت
+Generated: سيد سيد وايت ـ ـ ـ
+Batch bleu: 0.18424822174593192
+Penalty: 0.22906504571437836
+Iteration: 5000
+English: shiromi tekka maki salmon with tomato
+Original: شيرومي تيكا ماكي سلمون بالطماطم
+Generated: شيوم تيوكو ماك سلمون بالطماطم
+Batch bleu: 0.25965257679823006
+Penalty: 0.22879892587661743
+Iteration: 6000
+English: to check things out
+Original: صغيرة جدًّا لتبيُن الأشياء
+Generated: لتفقدّنظري
+Batch bleu: 0.20980408017107058
+Penalty: 0.2285747528076172
+Iteration: 7000
+English: why do not i just slide this into your pocket
+Original: لمَ لا أضع هذه فى داخل جيبك
+Generated: لماذا لا أن هذا في جيبك جيبك
+Batch bleu: 0.23903484963198354
+Penalty: 0.22826910018920898
+Iteration: 8000
+English: what about the movie
+Original: وماذا عن الفيلم
+Generated: ماذا عن الفيلم
+Batch bleu: 0.22553868495592758
+Penalty: 0.22795942425727844
+Iteration: 9000
+English: the players' union has that info but you would need a name
+Original: نقابة اللاعبين لديها تلك المعلومات لكنك تحتاج اسماً
+Generated: فريقابة المدفع لديهم تلك المعلومات لكنك ستحتاج إلىماًاً
+Batch bleu: 0.25590371323634425
+Penalty: 0.22770974040031433
+Iteration: 10000
+English: yeah oh and chuck when you are ready again we will be here waiting
+Original: نعم وعندما تكون جاهزاً
+Generated: أجل و تجهز جاهزاً ثانيةواحنا
+Batch bleu: 0.22774318381378908
+Penalty: 0.2274269461631775
+Iteration: 11000
+English: must be sent to er right now
+Original: يجب أن نرسله الى غرفة الطوارئ حالا
+Generated: يجب أن يتمرس الآن الآن الان الآن
+Batch bleu: 0.21759140180651468
+Penalty: 0.22714263200759888
+Iteration: 12000
+English: muses
+Original: مُلهمات
+Generated: منع
+Batch bleu: 0.23778885537753303
+Penalty: 0.22683140635490417
+Iteration: 13000
+English: and a whale did that
+Original: وهل فعل حوتٌ ذلك
+Generated: و فعل حوت ذلك بذلك
+Batch bleu: 0.19465252914451325
+Penalty: 0.22640858590602875
+Iteration: 14000
+English: i have got a lot on my plate right now and i cannot deal with your shit
+Original: إستمع يا جستن لديّ الكثير من المتاعب الآن ولا يمكنني التعامل مع هرائك
+Generated: لدي لدي رجل لدي الكثير على ضمن الآن ولا أستطيع التعامل مع أغراضكرائك
+Batch bleu: 0.20752455999338926
+Penalty: 0.22596079111099243
+Iteration: 15000
+English: it's nerves mmom's right
+Original: إنه القلق فقط
+Generated: إنها الأعصاب
+Batch bleu: 0.2509257799002748
+Penalty: 0.22559288144111633
+Iteration: 16000
+English: i am sorry the downstairs crapper it is on the fritz again
+Original: انا اسف هناك بعثرة في الاسفل انها على فريتز مرة اخرى
+Generated: أنا اسف على مشكلةلامة الطابق الطابق انه على الفريتز مرة اخرى
+Batch bleu: 0.23680032830261072
+Penalty: 0.22533787786960602
+Iteration: 17000
+English: the kitchen
+Original: المطبخ
+Generated: المطبخ
+Batch bleu: 0.23265709476654295
+Penalty: 0.2250535786151886
+Iteration: 18000
+English: then you know to stay out of my head
+Original: إذاً فتعلم أن تبقى خارج رأسي
+Generated: إذاً أنتبقى أن تبتعد بعيداً رأسي
+Batch bleu: 0.24179427604825843
+Penalty: 0.224698007106781
+Iteration: 19000
+English: i will just take that on faith
+Original: سأعتمدعلىأيمانىبالأشياء
+Generated: سوفعتبردع هذاهذايماننالأيمانينه
+Batch bleu: 0.2049518613096058
+Penalty: 0.22429704666137695
+Iteration: 20000
+English: come on up here girl we want to see the way you move
+Original: هيا ايها الفتاة نريد ان نري كيف تتحركين
+Generated: هيا يا الفتاة نريد ان نرى بالطريقة تتحرك
+Batch bleu: 0.19032001407483523
+Penalty: 0.22402535378932953
+Iteration: 21000
+English: i never would have made the meatball cannon
+Original: لما استطعت أبداً أن أصنع مدفع كرات اللحم
+Generated: لم كنت أن أن أقوم مدفع كرات اللحم
+Batch bleu: 0.23723406006588085
+Penalty: 0.2236764132976532
+Iteration: 22000
+English: hot hot hot
+Original: حار حار حار
+Generated: ساخنة ساخن ساخن
+Batch bleu: 0.23679669531383757
+Penalty: 0.22344163060188293
+Iteration: 23000
+English: whatever it takes so that you can finally say to him
+Original: و مهما كان عددها أسهلها أن تخبريه بنفسك
+Generated: مهما مهما كان ماها حتى من حتى تقول أخيراً
+Batch bleu: 0.22941081388543771
+Penalty: 0.2231380194425583
+Iteration: 24000
+English: i have got a lot on my plate
+Original: لدي العديد من الأمور التي تشغلني
+Generated: لدي الكثير من الا على لديني
+Batch bleu: 0.2432263118858453
+Penalty: 0.222849503159523
+Iteration: 25000
+English: the spider the fly
+Original: والذباب
+Generated: العنكبوت عنكذب
+Batch bleu: 0.22242175989011084
+Penalty: 0.22255389392375946
+Iteration: 26000
+English: scratch out the fired worker part
+Original: احذفي الجزء المتعلق بفصلي من العمل
+Generated: خدكثي دور المعلق بالمريق الخدمة
+Batch bleu: 0.1937081194814597
+Penalty: 0.22233380377292633
+Iteration: 27000
+English: she really wants to talk to you veronica
+Original: تريد حقا أن تتكلم معك فيرونيكا
+Generated: تريد التحدث التحدث تتحدث معك فيرونيكا
+Batch bleu: 0.24090314554832576
+Penalty: 0.22211645543575287
+Iteration: 28000
+English: um ok
+Original: حسنا
+Generated: حسناً
+Batch bleu: 0.23809623677916933
+Penalty: 0.22188273072242737
+Iteration: 29000
+English: that black thing is called a typewriter
+Original: ذلك الشي الاسود أسمه آله كاتبة
+Generated: ذلك الشيء الاسود يدعى آلة كاتبة
+Batch bleu: 0.24653510237770387
+Penalty: 0.22152990102767944
+Iteration: 30000
+English: no way
+Original: لا أبداً
+Generated: مستحيل محال
+Batch bleu: 0.2155394878409077
+Penalty: 0.2213255763053894
+Iteration: 31000
+English: look at me
+Original: انظر إلىّ
+Generated: انظر الينىنى
+Batch bleu: 0.20958106281405078
+Penalty: 0.22114886343479156
+Iteration: 32000
+English: my boy is missing
+Original: إن إبني مفقود
+Generated: ابني ابني مفقود
+Batch bleu: 0.22057991133836394
+Penalty: 0.22093510627746582
+Iteration: 33000
+English: i am just messing with you
+Original: أنا أمازحك وحسب
+Generated: أنا أعبثزحك فحسبنا
+Batch bleu: 0.22183163977160206
+Penalty: 0.22071994841098785
+Iteration: 34000
+English: i did not find the perfect moment because i think that today was about just having today
+Original: لم أجد اللحظة المثالية لأنني أعتقد أن اليوم لنعيش أحداث اليوم
+Generated: لم أجد اللحظة المثالية لأنني أعتقد أن اليوم كان يكون اليوم اليوم اليوم اليوم اليوم اليوم اليوم اليوم
+Batch bleu: 0.20825118148953442
+Penalty: 0.22051791846752167
+Iteration: 35000
+English: minoes here
+Original: مينوس هنا
+Generated: مينوس هنا
+Batch bleu: 0.24704662036330294
+Penalty: 0.22036150097846985
+Epoch: 03 | Time: 190m 37s
+Train Loss: 3.204 | Train PPL:  24.640 | Train Bleu Score: 0.227
+Val. Loss: 2.797 | Val. PPL:  16.402 | Val. Bleu Score: 0.250
+
+Evaluating the prunned model quality on the test data...
+Test Loss: 2.800 | Test PPL:  16.438 | Test Bleu Score: 0.249
+
