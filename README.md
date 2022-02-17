@@ -10,7 +10,7 @@ Transformer is used as Seq2Seq model
 Reference
 * Attention Is All You Need [paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
-## **Pruning the model**
+## **Model pruning**
 
 Reference
 * https://github.com/lena-voita/the-story-of-heads
