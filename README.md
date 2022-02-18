@@ -1,6 +1,8 @@
-Telegram Bot for English - Arabic Neural Machine Translation
+**Telegram Bot for English - Arabic Neural Machine Translation**
 
-It can be found here t.me/english_arabic_translator_bot
+It can be found here -> t.me/english_arabic_translator_bot
+
+The bot is deployed on the [Oracle Cloud](https://www.oracle.com/index.html)
 
 ### **Dataset**
 The OpenSubtitles dataset for English-Arabic languages is used to train the Seq2Seq model [link to download](https://opus.nlpl.eu/download.php?f=OpenSubtitles/v2018/moses/ar-en.txt.zip)
@@ -32,9 +34,7 @@ with λ = 0.05 [experiment_1](https://github.com/KristinaRay/english-arabic-nmt-
 
 ### **Results**
 
-For λ = 0.05 91 retained heads.
-
-For λ = 0.01 89 retained heads.
+For λ = 0.05 91 retained heads, for λ = 0.01 89 retained heads.
 
 ![alt text](https://github.com/KristinaRay/english-arabic-nmt-bot/blob/main/experiment_1/assets/enc_self_attn_gates.gif)
 ![alt text](https://github.com/KristinaRay/english-arabic-nmt-bot/blob/main/experiment_2/assets/enc_self_attn_gates.gif)
