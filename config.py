@@ -45,7 +45,7 @@ TRG_VOCAB_SIZE = 24000
 
 SAMPLE_SIZE = 5000000
 
-DATA_PATH = 'data'
+DATA_PATH = 'dataset'
 LOG_FILE_PATH = 'logs'
 CHECKPOINT_PATH = 'checkpoints'
 TRG_TXT_FILE_PATH = f'{DATA_PATH}/ar.txt'
