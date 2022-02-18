@@ -5,7 +5,7 @@ Description=<name>_bot
 Type=simple
 User=<user>
 WorkingDirectory=/opt/<name>
-ExecStart=/opt/<name>/env/bin/python3 /opt/<name>/bot.py
+ExecStart=/home/<user>/opt/<name>/env/bin/python3 /home/<user>/opt/<name>/bot.py
 
 [Install]
 WantedBy=multi-user.target
