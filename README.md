@@ -16,7 +16,7 @@ python3 data/get_dataset.py --sample_size 5000000 --max_text_len 150
 ```
 Tokenization is performed using [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) BPE-tokenizer
 ### **Model**
-Tthe implementation of the Transformer with 6 layered decoder and encoder and 8 multi attention heads with Glorot initialized parameters. 
+The implementation of the Transformer with 6 layered decoder and encoder and 8 multi attention heads with Glorot initialized parameters. 
 
 Reference
 * Attention Is All You Need [paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
