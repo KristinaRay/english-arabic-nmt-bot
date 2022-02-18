@@ -4,7 +4,7 @@ Description=<name>_bot
 [Service]
 Type=simple
 User=<user>
-WorkingDirectory=/opt/<name>
+WorkingDirectory=/home/<user>/opt/<name>
 ExecStart=/home/<user>/opt/<name>/env/bin/python3 /home/<user>/opt/<name>/bot.py
 
 [Install]
