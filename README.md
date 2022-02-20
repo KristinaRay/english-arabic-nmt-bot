@@ -12,7 +12,7 @@ The OpenSubtitles dataset for English-Arabic languages is used to train the Seq2
 To download and preprocess a file in order to remove extra characters and clean up data, run
 
 ```
-python3 data/get_dataset.py --sample_size 5000000 --max_text_len 150
+python data/get_dataset.py --sample_size 5000000 --max_text_len 150
 ```
 Tokenization is performed using [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) BPE-tokenizer
 ### **Model**
