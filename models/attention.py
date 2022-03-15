@@ -9,7 +9,7 @@ class MultiHeadAttentionLayer(nn.Module):
     """
     Multihead scaled dot-product attention
     """
-    def __init__(self, hid_dim, n_heads, dropout, device, pruning):
+    def __init__(self, hid_dim, n_heads, dropout, pruning, device):
         super().__init__()
         
         assert hid_dim % n_heads == 0
@@ -28,7 +28,6 @@ class MultiHeadAttentionLayer(nn.Module):
         self.pruning = pruning
         if pruning:
             self.gate = HardConcreteGate(n_heads, hard=HARD)
-            #self.l0_penalty = LO_PENALTY
     def forward(self, query, key, value, mask = None):
         #print(query)
         batch_size = query.shape[0]
@@ -71,7 +70,7 @@ class MultiHeadAttentionLayer(nn.Module):
         # here we will need to multiply by binary concrete distribution
         if self.pruning:
             x = self.gate(x, is_train=self.training)
-
+            #self.gates = self.gate(values=None, is_train=False)
         #x = [batch size, n heads, query len, head dim]
         
         x = x.permute(0, 2, 1, 3).contiguous()

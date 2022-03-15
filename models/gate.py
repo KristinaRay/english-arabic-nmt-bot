@@ -32,13 +32,13 @@ class HardConcreteGate(nn.Module):
         self.hard = hard                      
         self.sigmoid = nn.Sigmoid()
                                   
-    def forward(self, values, is_train=False):
+    def forward(self, values, is_train):
         """
         Applies gate to values, if is_train
         """
-        gates = self.get_gates(values, is_train=False)
+        self.gates = self.get_gates(values, is_train)
                                   
-        return values * gates.to(device)
+        return values * self.gates.to(device)
                                   
     def penalty(self):
         """
@@ -56,7 +56,7 @@ class HardConcreteGate(nn.Module):
         return gate_open 
                                   
                                   
-    def get_gates(self, values=None, is_train=False):
+    def get_gates(self, values, is_train):
         """ 
         samples gate activations in [0, 1] interval
         

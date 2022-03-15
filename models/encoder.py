@@ -12,9 +12,9 @@ class Encoder(nn.Module):
                  n_heads, 
                  pf_dim,
                  dropout, 
-                 device,
+                 pruning,
                  max_length,
-                 pruning
+                 device,
                  ): 
         super().__init__()
 
@@ -25,8 +25,8 @@ class Encoder(nn.Module):
                                                   n_heads, 
                                                   pf_dim,
                                                   dropout, 
-                                                  device,
-                                                  pruning) 
+                                                  pruning,
+                                                  device) 
                                      for _ in range(n_layers)])
         
         self.dropout = nn.Dropout(dropout)
@@ -47,13 +47,12 @@ class Encoder(nn.Module):
         
         src = self.dropout((self.tok_embedding(src) * self.scale) + self.pos_embedding(pos))
         #src = [batch size, src len, hid dim]
-        attention = []
+        
         for layer in self.layers:
-            src, attn = layer(src, src_mask)
-            attention.append(attn)
+            src = layer(src, src_mask)
         #src = [batch size, src len, hid dim]
             
-        return src, attention
+        return src
     
 class EncoderLayer(nn.Module):
     def __init__(self, 
@@ -61,13 +60,13 @@ class EncoderLayer(nn.Module):
                  n_heads, 
                  pf_dim,  
                  dropout, 
-                 device,
-                 pruning):
+                 pruning,
+                 device):
         super().__init__()
         
         self.self_attn_layer_norm = nn.LayerNorm(hid_dim)
         self.ff_layer_norm = nn.LayerNorm(hid_dim)
-        self.self_attention = MultiHeadAttentionLayer(hid_dim, n_heads, dropout, device, pruning)
+        self.self_attention = MultiHeadAttentionLayer(hid_dim, n_heads, dropout, pruning, device)
         self.positionwise_feedforward = PositionwiseFeedforwardLayer(hid_dim, 
                                                                      pf_dim, 
                                                                      dropout)
@@ -79,7 +78,7 @@ class EncoderLayer(nn.Module):
         #src_mask = [batch size, 1, 1, src len] 
                 
         #self attention
-        _src, enc_attn = self.self_attention(src, src, src, src_mask)
+        _src, _ = self.self_attention(src, src, src, src_mask)
         
         #dropout, residual connection and layer norm
         src = self.self_attn_layer_norm(src + self.dropout(_src))
@@ -94,7 +93,7 @@ class EncoderLayer(nn.Module):
         
         #src = [batch size, src len, hid dim]
         
-        return src, enc_attn
+        return src
 
 class PositionwiseFeedforwardLayer(nn.Module):
     def __init__(self, hid_dim, pf_dim, dropout):

@@ -14,7 +14,6 @@ from config import *
 tg = TG(TG_NOTIFY_TOKEN, TG_NOTIFY_CHAT_ID)
 
 def seed_everything(seed=42):
-    
     random.seed(seed)
     np.random.seed(seed)
     torch.random.manual_seed(seed)
@@ -23,7 +22,6 @@ def seed_everything(seed=42):
     torch.backends.cudnn.deterministic = True
 
 def token_frequency_distribution(tokenizer, data_path, output_data_path, language):
-    
     data = [line for line in open(data_path)]
     tokens = [tokenizer.encode(line) for line in data]
     token_counts = np.bincount([token_id for token in tokens for token_id in token])
@@ -36,11 +34,9 @@ def token_frequency_distribution(tokenizer, data_path, output_data_path, languag
     plt.close()
     
 def count_parameters(model):
-    
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
         
 def save_checkpoints(checkpoint, epoch_number, best_loss, best_bleu_score, checkpoint_path):
-    
     os.makedirs(checkpoint_path, exist_ok=True)
     if best_loss:
         path = os.path.join(checkpoint_path, 'best_loss_model.pt')
@@ -65,7 +61,6 @@ def calculate_bleu(references, hypotheses):
     return corpus_bleu(list_of_references, hypotheses, smoothing_function=smooth.method1, weights = (0.5, 0.5)) 
 
 def log(text):
-    
     os.makedirs(LOG_FILE_PATH, exist_ok=True)
     tg.send_message(text)
     with open(os.path.join(LOG_FILE_PATH,'log.txt'), 'a+') as file: 
@@ -95,9 +90,7 @@ def show_attention_gates(iteration_num, attention, output_data_path, filename):
     plt.close()
 
 def plotting(train_history, valid_history, train_history_perplexity, valid_history_perplexity, train_bleu_scores, valid_bleu_scores, output_data_path): 
-    
     fig, ax = plt.subplots(nrows=1, ncols=3, figsize=(16, 6))
-
     clear_output(True)
     if train_history is not None:
         ax[0].plot(train_history, label='general train history')
@@ -137,7 +130,7 @@ def train(model, iterator, optimizer, scheduler, criterion, src_tokenizer, trg_t
         
         optimizer.zero_grad()
         
-        output, enc_attn, self_attn, dec_attn = model(src, trg[:,:-1])
+        output, _ = model(src, trg[:,:-1])
                 
         #output = [batch size, trg len - 1, output dim]
         #trg = [batch size, trg len]
@@ -205,7 +198,7 @@ def evaluate(model, iterator, criterion, src_tokenizer, trg_tokenizer, device, p
             src = batch['src'].to(device)
             trg = batch['trg'].to(device)
     
-            output, enc_attn, self_attn, dec_attn = model(src, trg[:,:-1])
+            output, _ = model(src, trg[:,:-1])
                 
             #output = [batch size, trg len - 1, output dim]
             #trg = [batch size, trg len]
@@ -233,13 +226,12 @@ def evaluate(model, iterator, criterion, src_tokenizer, trg_tokenizer, device, p
     return valid_loss_history, valid_bleu_history, epoch_loss / len(iterator),  epoch_bleu_score / len(iterator)
     
 def translate(model, sentence, device, bos_idx, eos_idx, max_len=100):
-        
     model.eval()
     src_tensor = torch.LongTensor(sentence).unsqueeze(0).to(device)
     src_mask = model.make_src_mask(src_tensor)
     trg = [bos_idx]
     with torch.no_grad():
-        enc_src, enc_attn = model.encoder(src_tensor, src_mask)
+        enc_src = model.encoder(src_tensor, src_mask)
     
     for i in range(max_len):
 
@@ -247,7 +239,7 @@ def translate(model, sentence, device, bos_idx, eos_idx, max_len=100):
         trg_mask = model.make_trg_mask(trg_tensor)
         
         with torch.no_grad():
-            output, self_attn, dec_attn = model.decoder(trg_tensor, enc_src, trg_mask, src_mask)
+            output, attention = model.decoder(trg_tensor, enc_src, trg_mask, src_mask)
         
         pred_token = output.argmax(-1)[:,-1].item()
         trg.append(pred_token)
@@ -255,7 +247,7 @@ def translate(model, sentence, device, bos_idx, eos_idx, max_len=100):
         if pred_token == eos_idx:
             break
     
-    return trg, enc_attn # attention
+    return trg, attention
 
 
 def load_checkpoint(model, checkpoint_path, optimizer):

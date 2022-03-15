@@ -22,11 +22,11 @@ class Seq2Seq(nn.Module):
         self.device = device
         self.encoder = Encoder(
             inp_dim, HID_DIM, ENC_LAYERS, ENC_HEADS, 
-            ENC_PF_DIM, ENC_DROPOUT, device, max_length, PRUNING)
+            ENC_PF_DIM, ENC_DROPOUT, PRUNING, max_length, device)
         
         self.decoder = Decoder(
             out_dim, HID_DIM, DEC_LAYERS, DEC_HEADS, 
-            DEC_PF_DIM, DEC_DROPOUT, device, max_length, PRUNING)
+            DEC_PF_DIM, DEC_DROPOUT, PRUNING, max_length, device)
         
         # Initialize parameters with Glorot
         """
@@ -84,28 +84,27 @@ class Seq2Seq(nn.Module):
         #src_mask = [batch size, 1, 1, src len]
         #trg_mask = [batch size, 1, trg len, trg len]
         
-        enc_src, enc_attn = self.encoder(src, src_mask)
+        enc_src = self.encoder(src, src_mask)
         
         #enc_src = [batch size, src len, hid dim]
                 
-        output, self_attn, dec_attn = self.decoder(trg, enc_src, trg_mask, src_mask)
+        output, attention = self.decoder(trg, enc_src, trg_mask, src_mask)
         
         #output = [batch size, trg len, output dim]
         #attention = [batch size, n heads, trg len, src len]
         
-        return output, enc_attn, self_attn, dec_attn
+        return output, attention
     
     def get_penalty(self):
         assert len([name for name, param in self.named_parameters() if param.requires_grad and 'gate' in name]) == (ENC_LAYERS + 2 * DEC_LAYERS), 'gate.penalty() requires_grad=True'
         gates = [layer.self_attention.gate for layer in self.encoder.layers]
         gates += [layer.self_attention.gate for layer in self.decoder.layers]
         gates += [layer.self_attention.gate for layer in self.decoder.layers]
-        return GATE_L0_PENALTY * torch.cat([self.gate.penalty() for gate in gates], dim=0).mean().item()
-
+        return torch.tensor([GATE_L0_PENALTY * torch.sum(gate.penalty(), dim=(1)).mean() for gate in gates]).mean().item()
+    
     def get_gates(self):
-        f = lambda gate: self.gate.get_gates().flatten().tolist()
-        enc_self_attn_gates = [f(layer.self_attention.gate) for layer in self.encoder.layers]
-        dec_self_attn_gates = [f(layer.self_attention.gate) for layer in self.decoder.layers]
-        dec_enc_attn_gates = [f(layer.encoder_attention.gate) for layer in self.decoder.layers]
+        enc_self_attn_gates = [layer.self_attention.gate.get_gates(values=None, is_train=False).flatten().tolist() for layer in self.encoder.layers]
+        dec_self_attn_gates = [layer.self_attention.gate.get_gates(values=None, is_train=False).flatten().tolist() for layer in self.decoder.layers]
+        dec_enc_attn_gates = [layer.encoder_attention.gate.get_gates(values=None, is_train=False).flatten().tolist() for layer in self.decoder.layers]
         return enc_self_attn_gates, dec_self_attn_gates, dec_enc_attn_gates
   

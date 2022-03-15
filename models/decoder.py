@@ -11,10 +11,10 @@ class Decoder(nn.Module):
                  n_layers, 
                  n_heads, 
                  pf_dim, 
-                 dropout, 
-                 device,
+                 dropout,
+                 pruning, 
                  max_length,
-                 pruning):
+                 device):
         super().__init__()
         
         self.device = device
@@ -26,8 +26,8 @@ class Decoder(nn.Module):
                                                   n_heads, 
                                                   pf_dim, 
                                                   dropout, 
-                                                  device,
-                                                  pruning)
+                                                  pruning,
+                                                  device)
                                      for _ in range(n_layers)])
         
         self.fc_out = nn.Linear(hid_dim, output_dim)
@@ -53,12 +53,10 @@ class Decoder(nn.Module):
         trg = self.dropout((self.tok_embedding(trg) * self.scale) + self.pos_embedding(pos))
                 
         #trg = [batch size, trg len, hid dim]
-        self_attns = []
-        enc_attns = []
+        
         for layer in self.layers:
-            trg, self_attn, enc_attn = layer(trg, enc_src, trg_mask, src_mask)
-            self_attns.append(self_attn)
-            enc_attns.append(enc_attn)
+            trg, attention = layer(trg, enc_src, trg_mask, src_mask)
+            
         #trg = [batch size, trg len, hid dim]
         #attention = [batch size, n heads, trg len, src len]
         
@@ -66,7 +64,7 @@ class Decoder(nn.Module):
         
         #output = [batch size, trg len, output dim]
             
-        return output, self_attns, enc_attns
+        return output, attention
     
 class DecoderLayer(nn.Module):
     def __init__(self, 
@@ -74,15 +72,15 @@ class DecoderLayer(nn.Module):
                  n_heads, 
                  pf_dim, 
                  dropout, 
-                 device,
-                 pruning):
+                 pruning,
+                 device):
         super().__init__()
         
         self.self_attn_layer_norm = nn.LayerNorm(hid_dim)
         self.enc_attn_layer_norm = nn.LayerNorm(hid_dim)
         self.ff_layer_norm = nn.LayerNorm(hid_dim)
-        self.self_attention = MultiHeadAttentionLayer(hid_dim, n_heads, dropout, device, pruning)
-        self.encoder_attention = MultiHeadAttentionLayer(hid_dim, n_heads, dropout, device, pruning)
+        self.self_attention = MultiHeadAttentionLayer(hid_dim, n_heads, dropout, pruning, device)
+        self.encoder_attention = MultiHeadAttentionLayer(hid_dim, n_heads, dropout, pruning, device)
         self.positionwise_feedforward = PositionwiseFeedforwardLayer(hid_dim, 
                                                                      pf_dim, 
                                                                      dropout)
@@ -96,7 +94,7 @@ class DecoderLayer(nn.Module):
         #src_mask = [batch size, 1, 1, src len]
         
         #self attention
-        _trg, self_attn = self.self_attention(trg, trg, trg, trg_mask)
+        _trg, _ = self.self_attention(trg, trg, trg, trg_mask)
         
         #dropout, residual connection and layer norm
         trg = self.self_attn_layer_norm(trg + self.dropout(_trg))
@@ -104,7 +102,7 @@ class DecoderLayer(nn.Module):
         #trg = [batch size, trg len, hid dim]
             
         #encoder attention
-        _trg, enc_attn = self.encoder_attention(trg, enc_src, enc_src, src_mask)
+        _trg, attention = self.encoder_attention(trg, enc_src, enc_src, src_mask)
         
         #dropout, residual connection and layer norm
         trg = self.enc_attn_layer_norm(trg + self.dropout(_trg))
@@ -120,6 +118,6 @@ class DecoderLayer(nn.Module):
         #trg = [batch size, trg len, hid dim]
         #attention = [batch size, n heads, trg len, src len]
         
-        return trg, self_attn, enc_attn
+        return trg, attention
     
     
