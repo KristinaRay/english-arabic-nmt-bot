@@ -16,7 +16,7 @@ python data/get_dataset.py --sample_size 5000000 --max_text_len 150
 ```
 Tokenization is performed using [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) BPE-tokenizer
 ### **Model**
-The implementation of the Transformer with 6 layered decoder and encoder and 8 multi attention heads with Glorot initialized parameters. 
+The implementation of the Transformer in PyTorch with 6 layered decoder and encoder and 8 multi attention heads with Glorot initialized parameters. 
 
 Reference
 * Attention Is All You Need [paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
@@ -27,9 +27,9 @@ For the training learning rate 0.00005 is used with warm up for 30000 iterations
 ![alt text](https://github.com/KristinaRay/english-arabic-nmt-bot/blob/main/pics/learning_rate.png)
 
 ### **Model pruning**
-The implementation of the method Voita et al.
-2 experiments of the model attention heads pruning were carried out
+The implementation of the method Voita et al. in PyTorch [paper](https://aclanthology.org/P19-1580.pdf)
 
+2 experiments of the model attention heads pruning were carried out
 with λ = 0.05 [experiment_1](https://github.com/KristinaRay/english-arabic-nmt-bot/tree/main/experiment_1) and λ = 0.01 [experiment_2](https://github.com/KristinaRay/english-arabic-nmt-bot/tree/main/experiment_2)
 
 ### **Results**
