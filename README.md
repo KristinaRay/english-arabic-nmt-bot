@@ -2,7 +2,7 @@
 
 It can be found here -> [https://t.me/english_arabic_translator_bot](https://t.me/english_arabic_translator_bot)
 
-The bot is deployed on the [Oracle Cloud](https://www.oracle.com/index.html)
+The bot is deployed on [Oracle Cloud](https://www.oracle.com/index.html)
 
 ### **Dataset**
 The OpenSubtitles dataset for English-Arabic languages is used to train the Seq2Seq model [link to download](https://opus.nlpl.eu/download.php?f=OpenSubtitles/v2018/moses/ar-en.txt.zip)
