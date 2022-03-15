@@ -28,7 +28,7 @@ For the training learning rate 0.00005 is used with warm up for 30000 iterations
 
 ### **Model pruning**
 The implementation of the method Voita et al.
-2 experiments of the model pruning were carried out
+2 experiments of the model attention heads pruning were carried out
 
 with λ = 0.05 [experiment_1](https://github.com/KristinaRay/english-arabic-nmt-bot/tree/main/experiment_1) and λ = 0.01 [experiment_2](https://github.com/KristinaRay/english-arabic-nmt-bot/tree/main/experiment_2)
 
