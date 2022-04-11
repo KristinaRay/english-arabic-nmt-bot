@@ -4,6 +4,11 @@ It can be found here -> [https://t.me/english_arabic_translator_bot](https://t.m
 
 The bot is deployed on [Oracle Cloud](https://www.oracle.com/index.html)
 
+## **Demo**
+
+![alt text](https://github.com/KristinaRay/english-arabic-nmt-bot/blob/main/pics/demo1.png)
+
+![alt text](https://github.com/KristinaRay/english-arabic-nmt-bot/blob/main/pics/demo2.png)
 ### **Dataset**
 The OpenSubtitles dataset for English-Arabic languages is used to train the Seq2Seq model [link to download](https://opus.nlpl.eu/download.php?f=OpenSubtitles/v2018/moses/ar-en.txt.zip)
 
